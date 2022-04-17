@@ -15,6 +15,8 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:0,CBC News (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:0,CBS 
+http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News (1080p)
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA",CNN International
