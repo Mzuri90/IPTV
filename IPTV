@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://i.imgur.com/7sJLzKi.png" group-title="USA",ABC
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1, ABC 7
+http://cdn.tv247.xyz/channel2/abc.m3u8
 #EXTINF:24,Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera English
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
