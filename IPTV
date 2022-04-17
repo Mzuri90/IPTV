@@ -19,8 +19,6 @@ https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Comedy Central 
 http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
-#EXTINF:-1,CINEMAX ACTIONMAX
-http://xxultraxx.com:80/uu123456/uu123456/23920
 #EXTINF:0,Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Crime Time
