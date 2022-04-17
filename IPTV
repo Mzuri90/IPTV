@@ -15,7 +15,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, CINEMAX
+#EXTINF:0,CINEMAX
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
