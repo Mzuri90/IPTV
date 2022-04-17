@@ -27,18 +27,6 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,ESPN
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-#EXTINF:-1,HBO
-http://cdng.pubcdn.tn/iptv/ch3535?code=1701341723961808
-#EXTINF:-1,HBO Zone
-http://cdng.pubcdn.tn/iptv/ch3534?code=1701341723961808
-#EXTINF:-1,HBO Signature
-http://cdng.pubcdn.tn/iptv/ch3533?code=1701341723961808
-#EXTINF:-1,HBO Comedy
-http://cdng.pubcdn.tn/iptv/ch3532?code=1701341723961808
-#EXTINF:-1,FXX
-http://cdng.pubcdn.tn/iptv/ch3531?code=1701341723961808
-#EXTINF:-1,FOX HD
-http://cdng.pubcdn.tn/iptv/ch3520?code=1701341723961808
 #EXTINF:0,FX 
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0,LIFETIME
