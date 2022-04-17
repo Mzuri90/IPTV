@@ -49,7 +49,7 @@ http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1,USA: CINEMAX ACTIONMAX
+#EXTINF:-1,CINEMAX ACTIONMAX
 http://xxultraxx.com:80/uu123456/uu123456/23920
 
 
