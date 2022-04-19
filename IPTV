@@ -25,8 +25,7 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,ESPN
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png",FOX NEWS
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,FX 
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0,LIFETIME
