@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0,A&E HD
-http://sofadad.co.uk:80/12345/12345/79739
 #EXTINF:24,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:0,A&E HD
+http://sofadad.co.uk:80/12345/12345/79739
 #EXTINF:0,BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:0,Cartoon Network
