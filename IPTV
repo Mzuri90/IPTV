@@ -49,7 +49,7 @@ http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1, tvg-id="sky.atlantic.gb" tvg-name="SKY ATLANTIC" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-atlantic-de.png", SKY ATLANTIC
-http://mu03ye.wanicelife.com:8880/YALM0660/94395122/28955.m3u8
+#EXTINF:-1 tvg-id="HBOAdria.rs" tvg-name="HBO ADRIA" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_adria.png", HBO ADRIA
+http://bos.00387.info:8080/HBO/index.m3u8
 
 
