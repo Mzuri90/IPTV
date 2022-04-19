@@ -27,8 +27,7 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
 #EXTINF:0,FX 
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
-#EXTINF:-1,HBO
-http://bos.00387.info:8080/HBO/index.m3u8
+
 #EXTINF:0,LIFETIME
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,LMN 
