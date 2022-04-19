@@ -3,7 +3,7 @@
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0,BBC_WORLD 
+#EXTINF:0,BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BEINSPORTS 
 http://gtv01.airlinktt.co/live/smil:BEINSPORTS.smil/playlist.m3u8
