@@ -1,55 +1,82 @@
 #EXTM3U
 #EXTINF:24,Afrobeats
+#EXTVLCOPT:network-caching=1000
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (EN)",Al Jazeera
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,BBC
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BET 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:0,CBC News
+#EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:0,CBS 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
+#EXTVLCOPT:network-caching=1000
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" group-title="USA",CNN International
+#EXTINF:0,CNN International
+#EXTVLCOPT:network-caching=1000
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Comedy Central 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
 #EXTINF:0,Crackle
+#EXTVLCOPT:network-caching=1000
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Crime Time
+#EXTVLCOPT:network-caching=1000
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
 #EXTINF:0,FX 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
 #EXTINF:0,LIFETIME
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,LMN 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:0,NBA_TV 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:0,NICKELODEON 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:0,RUSHHD 
+#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:0,SPORTSMAX1 
+#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 #EXTINF:0,SPORTSMAX2 
+#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
 #EXTINF:0,TLC 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:0,TNT 
+#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:0,TNTLA 
+#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:0,Red Bull TV
+#EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
+#EXTINF:0,30A TV
+#EXTVLCOPT:network-caching=1000
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
+
 
 
