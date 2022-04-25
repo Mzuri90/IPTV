@@ -7,12 +7,22 @@ http://fortv.cc:8080/alphonso/alphonso/22990?checkedby:iptvcat.com
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:0,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Animal Planet
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130904?checkedby:iptvcat.com
 #EXTINF:0,BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
+#EXTINF:0,BeIN Sports HD
+http://new-pro.tv:8080/Fernando/123321/70427?checkedby:iptvcat.com
 #EXTINF:0,BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
+#EXTINF:0,BLOOMBERG TV
+http://mains.services:2086/stanleyg/6916329/4680?checkedby:iptvcat.com
 #EXTINF:0,BOOMERANG
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64920?checkedby:iptvcat.com
+#EXTINF:0,Bounce HD
+http://new-pro.tv:8080/Fernando/123321/219713?checkedby:iptvcat.com
 #EXTINF:0,Bravo
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/97?checkedby:iptvcat.com
 #EXTINF:0,Cartoon Network
@@ -21,10 +31,14 @@ http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:35,CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
+#EXTINF:0,Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,CINEMAX
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/2743?checkedby:iptvcat.com
+#EXTINF:0,CINEMAX MOREMAX
+http://mains.services:2086/stanleyg/6916329/14944?checkedby:iptvcat.com
 #EXTINF:0,CNN
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/96?checkedby:iptvcat.com
 #EXTINF:0,Comedy Central
