@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,A&E
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/12?checkedby:iptvcat.com
+#EXTINF:0,ABC
+http://fortv.cc:8080/alphonso/alphonso/22990?checkedby:iptvcat.com
 #EXTINF:24,Afrobeats
 #EXTVLCOPT:network-caching=1000
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -11,76 +15,173 @@ http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BET 
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
+#EXTINF:0,BOOMERANG
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64920?checkedby:iptvcat.com
+#EXTINF:0,Bravo
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/97?checkedby:iptvcat.com
 #EXTINF:0,Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
-#EXTINF:0,CBC News
+#EXTINF:53,CBC News
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:0,CBS 
+#EXTINF:35,CBS 
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
 #EXTVLCOPT:network-caching=1000
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,CNN International
-#EXTVLCOPT:network-caching=1000
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Comedy Central 
-#EXTVLCOPT:network-caching=1000
-http://gtv01.airlinktt.co/live/smil:COMEDY_CENTRAL.smil/playlist.m3u8
+#EXTINF:0,CINEMAX
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/2743?checkedby:iptvcat.com
+#EXTINF:0,CNN
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/96?checkedby:iptvcat.com
+#EXTINF:0,Comedy Central
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/27?checkedby:iptvcat.com
+#EXTINF:0,Cooking Channel HD
+http://fortv.cc:8080/alphonso/alphonso/9229?checkedby:iptvcat.com
 #EXTINF:0,Crackle
 #EXTVLCOPT:network-caching=1000
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Crime Time
 #EXTVLCOPT:network-caching=1000
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+#EXTINF:0,Discovery
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/56?checkedby:iptvcat.com
+#EXTINF:0,Disney Channel
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3277?checkedby:iptvcat.com
 #EXTINF:0,ESPN
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/85?checkedby:iptvcat.com
+#EXTINF:130,ESPN
 #EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
-#EXTINF:0,FX 
-#EXTVLCOPT:network-caching=1000
-http://gtv01.airlinktt.co/live/smil:FX.smil/playlist.m3u8
+#EXTINF:0,ESPN 2
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/84?checkedby:iptvcat.com
+#EXTINF:0,FOX News
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/36?checkedby:iptvcat.com
+#EXTINF:0,FOX Soccer plus
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/78?checkedby:iptvcat.com
+#EXTINF:0,FUSE
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/25?checkedby:iptvcat.com
+#EXTINF:0,FX
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/11?checkedby:iptvcat.com
+#EXTINF:0,FXM
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/46?checkedby:iptvcat.com
+#EXTINF:0,FXX
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/22?checkedby:iptvcat.com
+#EXTINF:0,FYI
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/2457?checkedby:iptvcat.com
+#EXTINF:0,GSN HD
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/93?checkedby:iptvcat.com
+#EXTINF:0,HBO
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/49?checkedby:iptvcat.com
+#EXTINF:0,HBO 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137369?checkedby:iptvcat.com
+#EXTINF:0,HBO COMEDY
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/65073?checkedby:iptvcat.com
+#EXTINF:0,HBO Family East
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/112?checkedby:iptvcat.com
+#EXTINF:0,HBO Signature
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64698?checkedby:iptvcat.com
+#EXTINF:0,HBO Zone
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64695?checkedby:iptvcat.com
+#EXTINF:0,HIP HOP & R & B
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/904?checkedby:iptvcat.com
+#EXTINF:0,History channel
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/65?checkedby:iptvcat.com
+#EXTINF:0,IFC
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/51?checkedby:iptvcat.com
+#EXTINF:0,Lifetime
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/50?checkedby:iptvcat.com
 #EXTINF:0,LIFETIME
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,LMN 
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:0,NBA_TV 
-#EXTVLCOPT:network-caching=1000
-http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
+#EXTINF:0,NatGeo Wild
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/63?checkedby:iptvcat.com
+#EXTINF:0,National Geographic
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/62?checkedby:iptvcat.com
+#EXTINF:0,NBA TV
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/75?checkedby:iptvcat.com
+#EXTINF:0,NBC Sports Bay Area
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/1644?checkedby:iptvcat.com
+#EXTINF:0,NFL Network
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/1659?checkedby:iptvcat.com
+#EXTINF:0,Nick Jr
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/45?checkedby:iptvcat.com
+#EXTINF:0,Nickelodeon
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/42?checkedby:iptvcat.com
 #EXTINF:0,NICKELODEON 
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
-#EXTINF:0,RUSHHD 
+#EXTINF:0,OWN
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/20?checkedby:iptvcat.com
+#EXTINF:0,OXYGEN
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/17?checkedby:iptvcat.com
+#EXTINF:0,PARAMOUNT NETWORK
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/16?checkedby:iptvcat.com
+#EXTINF:0,Pop
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/44?checkedby:iptvcat.com
+#EXTINF:0,POP HITS
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/897?checkedby:iptvcat.com
+#EXTINF:0,RAP
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/898?checkedby:iptvcat.com
+#EXTINF:0,Red Bull TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:119,RUSHHD 
 #EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+#EXTINF:0,Showtime
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/47?checkedby:iptvcat.com
+#EXTINF:0,Showtime 2
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3281?checkedby:iptvcat.com
+#EXTINF:0,Showtime Extreme
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3299?checkedby:iptvcat.com
+#EXTINF:0,Showtime Family Zone
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3285?checkedby:iptvcat.com
+#EXTINF:0,Showtime Next
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3291?checkedby:iptvcat.com
+#EXTINF:0,SONY MOVIE CHANNEL
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64928?checkedby:iptvcat.com
 #EXTINF:0,SPORTSMAX1 
 #EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 #EXTINF:0,SPORTSMAX2 
 #EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
-#EXTINF:0,TLC 
-#EXTVLCOPT:network-caching=1000
-http://gtv01.airlinktt.co/live/smil:TLC.smil/playlist.m3u8
-#EXTINF:0,TNT 
+#EXTINF:0,Starz
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3280?checkedby:iptvcat.com
+#EXTINF:0,Starz Comedy
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3296?checkedby:iptvcat.com
+#EXTINF:0,Starz Encore
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3300?checkedby:iptvcat.com
+#EXTINF:0,Sundance
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/48?checkedby:iptvcat.com
+#EXTINF:0,SYFY
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3?checkedby:iptvcat.com
+#EXTINF:0,TBS
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/8?checkedby:iptvcat.com
+#EXTINF:0,THROWBACK JAMZ
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/902?checkedby:iptvcat.com
+#EXTINF:0,TLC
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/13?checkedby:iptvcat.com
+#EXTINF:35,TNT 
 #EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
-#EXTINF:0,TNTLA 
+#EXTINF:120,TNTLA 
 #EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
-#EXTINF:0,Red Bull TV
-#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY 1 HD
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/alphonso/alphonso/35246?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC
-#EXTVLCOPT:network-caching=1000
-http://mains.services:2086/stanleyg/6916329/91780?checkedby:iptvcat.com
-
-
-
-
+#EXTINF:0,Travel Channel HD
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/59?checkedby:iptvcat.com
+#EXTINF:0,TV LAND
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/18?checkedby:iptvcat.com
+#EXTINF:0,UFC FIGHT PASS
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/704?checkedby:iptvcat.com
+#EXTINF:0,USA Network
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/1?checkedby:iptvcat.com
+#EXTINF:0,VH1
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/39?checkedby:iptvcat.com
+#EXTINF:0,WWE NETWORK 24/7
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/524?checkedby:iptvcat.com
