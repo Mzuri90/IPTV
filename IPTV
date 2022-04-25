@@ -77,6 +77,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0,30A TV
 #EXTVLCOPT:network-caching=1000
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY 1 HD
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/alphonso/alphonso/35246?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC
+#EXTVLCOPT:network-caching=1000
+http://mains.services:2086/stanleyg/6916329/91780?checkedby:iptvcat.com
+
 
 
 
