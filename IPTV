@@ -23,6 +23,10 @@ http://mains.services:2086/stanleyg/6916329/4680?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64920?checkedby:iptvcat.com
 #EXTINF:0,Bounce HD
 http://new-pro.tv:8080/Fernando/123321/219713?checkedby:iptvcat.com
+#EXTINF:0,BT SPORTS 1
+http://mains.services:2086/stanleyg/6916329/67062?checkedby:iptvcat.com
+#EXTINF:0,BT SPORTS 2
+http://mains.services:2086/stanleyg/6916329/67063?checkedby:iptvcat.com
 #EXTINF:0,Bravo
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/97?checkedby:iptvcat.com
 #EXTINF:0,Cartoon Network
@@ -81,8 +85,12 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/22?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/2457?checkedby:iptvcat.com
 #EXTINF:0,GSN HD
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/93?checkedby:iptvcat.com
+#EXTINF:0,HBO
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/283362?checkedby:iptvcat.com
 #EXTINF:0,HBO_Max
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/283362?checkedby:iptvcat.com
+#EXTINF:0,HBO 2
+http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64697?checkedby:iptvcat.com
 #EXTINF:0,HBO 2 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137369?checkedby:iptvcat.com
 #EXTINF:0,HBO COMEDY
@@ -129,6 +137,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/16?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/44?checkedby:iptvcat.com
 #EXTINF:0,POP HITS
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/897?checkedby:iptvcat.com
+#EXTINF:0,PREMIER SPORTS 1
+http://mains.services:2086/stanleyg/6916329/91782?checkedby:iptvcat.com
 #EXTINF:0,RAP
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/898?checkedby:iptvcat.com
 #EXTINF:0,Red Bull TV
@@ -145,6 +155,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3299?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3285?checkedby:iptvcat.com
 #EXTINF:0,Showtime Next
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3291?checkedby:iptvcat.com
+#EXTINF:0,Sky Sports Arena HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179526?checkedby:iptvcat.com
 #EXTINF:0,Sky Sports Cricket HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1309?checkedby:iptvcat.com
 #EXTINF:0,Sky Sports Football
@@ -187,3 +199,6 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/1?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/39?checkedby:iptvcat.com
 #EXTINF:0,WWE NETWORK 24/7
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/524?checkedby:iptvcat.com
+#EXTINF:0,Willow Cricket HD
+http://new-pro.tv:8080/Fernando/123321/72105?checkedby:iptvcat.com
+
