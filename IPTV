@@ -4,32 +4,24 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/12?checkedby:iptvcat.com
 #EXTINF:0,ABC
 http://fortv.cc:8080/alphonso/alphonso/22990?checkedby:iptvcat.com
 #EXTINF:24,Afrobeats
-#EXTVLCOPT:network-caching=1000
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0,Al Jazeera
-#EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,BBC
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BET 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:0,BOOMERANG
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64920?checkedby:iptvcat.com
 #EXTINF:0,Bravo
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/97?checkedby:iptvcat.com
 #EXTINF:0,Cartoon Network
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:53,CBC News
-#EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:35,CBS 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
-#EXTVLCOPT:network-caching=1000
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,CINEMAX
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/2743?checkedby:iptvcat.com
@@ -40,17 +32,14 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/27?checkedby:iptvcat.com
 #EXTINF:0,Cooking Channel HD
 http://fortv.cc:8080/alphonso/alphonso/9229?checkedby:iptvcat.com
 #EXTINF:0,Crackle
-#EXTVLCOPT:network-caching=1000
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Crime Time
-#EXTVLCOPT:network-caching=1000
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Discovery
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/56?checkedby:iptvcat.com
 #EXTINF:0,Disney Channel
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3277?checkedby:iptvcat.com
 #EXTINF:130,ESPN
-#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
 #EXTINF:0,ESPN
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/85?checkedby:iptvcat.com
@@ -93,12 +82,10 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/65?checkedby:iptvcat.com
 #EXTINF:0,IFC
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/51?checkedby:iptvcat.com
 #EXTINF:0,LIFETIME
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,Lifetime
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/50?checkedby:iptvcat.com
 #EXTINF:0,LMN 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:0,NatGeo Wild
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/63?checkedby:iptvcat.com
@@ -115,7 +102,6 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/45?checkedby:iptvcat.com
 #EXTINF:0,Nickelodeon
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/42?checkedby:iptvcat.com
 #EXTINF:0,NICKELODEON 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:0,OWN
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/20?checkedby:iptvcat.com
@@ -130,10 +116,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/897?checkedby:iptvcat.com
 #EXTINF:0,RAP
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/898?checkedby:iptvcat.com
 #EXTINF:0,Red Bull TV
-#EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:119,RUSHHD 
-#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:0,Showtime
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/47?checkedby:iptvcat.com
@@ -154,10 +138,8 @@ http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/790?checkedby:iptvcat.co
 #EXTINF:0,SONY MOVIE CHANNEL
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64928?checkedby:iptvcat.com
 #EXTINF:0,SPORTSMAX1 
-#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 #EXTINF:0,SPORTSMAX2 
-#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/Sportsmax2/HLS/index.m3u8
 #EXTINF:0,Starz
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3280?checkedby:iptvcat.com
@@ -176,10 +158,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/902?checkedby:iptvcat.com
 #EXTINF:0,TLC
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/13?checkedby:iptvcat.com
 #EXTINF:35,TNT 
-#EXTVLCOPT:network-caching=1000
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:120,TNTLA 
-#EXTVLCOPT:network-caching=1000
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:0,Travel Channel HD
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/59?checkedby:iptvcat.com
