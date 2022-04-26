@@ -35,8 +35,6 @@ http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:35,CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
-#EXTINF:35,NBC 
-http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,CINEMAX
@@ -59,16 +57,14 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/56?checkedby:iptvcat.com
 http://fortv.cc:8080/alphonso/alphonso/10538?checkedby:iptvcat.com
 #EXTINF:0,DISCOVERY SCIENCE
 http://mains.services:2086/stanleyg/6916329/13565?checkedby:iptvcat.com
-#EXTINF:35,Discovery Science
-http://gtv01.airlinktt.co/live/smil:Discovery Science.smil/playlist.m3u8
+#EXTINF:35,ABC
+http://gtv01.airlinktt.co/live/smil:ABC.smil/playlist.m3u8
 #EXTINF:0,Discovery Science HD
 http://new-pro.tv:8080/Fernando/123321/69420?checkedby:iptvcat.com
-#EXTINF:35,Discovery Velocity HD
+#EXTINF:0,Discovery Velocity HD
 http://new-pro.tv:8080/Fernando/123321/122072?checkedby:iptvcat.com
 #EXTINF:0,Disney Channel
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3277?checkedby:iptvcat.com
-#EXTINF:130,ESPN
-http://38.127.211.18/live/c2eds/ESPN1/HLS/index.m3u8
 #EXTINF:0,ESPN
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/85?checkedby:iptvcat.com
 #EXTINF:0,ESPN 2
@@ -125,6 +121,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/63?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/62?checkedby:iptvcat.com
 #EXTINF:0,NBA TV
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/75?checkedby:iptvcat.com
+#EXTINF:35,NBC 
+http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,NBC Sports Bay Area
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/1644?checkedby:iptvcat.com
 #EXTINF:0,NFL Network
