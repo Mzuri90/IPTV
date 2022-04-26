@@ -17,6 +17,8 @@ http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 http://new-pro.tv:8080/Fernando/123321/70427?checkedby:iptvcat.com
 #EXTINF:0,BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
+#EXTINF:0,BET Her
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282742?checkedby:iptvcat.com
 #EXTINF:0,BLOOMBERG TV
 http://mains.services:2086/stanleyg/6916329/4680?checkedby:iptvcat.com
 #EXTINF:0,BOOMERANG
@@ -63,6 +65,8 @@ http://new-pro.tv:8080/Fernando/123321/69420?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/122072?checkedby:iptvcat.com
 #EXTINF:0,Disney Channel
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3277?checkedby:iptvcat.com
+#EXTINF:0,Disney XD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282879?checkedby:iptvcat.com
 #EXTINF:0,ESPN
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/85?checkedby:iptvcat.com
 #EXTINF:0,ESPN 2
@@ -99,6 +103,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/112?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64698?checkedby:iptvcat.com
 #EXTINF:0,HBO Zone
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/64695?checkedby:iptvcat.com
+#EXTINF:0,HGTV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137435?checkedby:iptvcat.com
 #EXTINF:0,HIP HOP & R & B
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/904?checkedby:iptvcat.com
 #EXTINF:0,History channel
@@ -113,6 +119,8 @@ http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/50?checkedby:iptvcat.com
 #EXTINF:0,LMN 
 http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
+#EXTINF:0,MTV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137239?checkedby:iptvcat.com
 #EXTINF:0,NatGeo Wild
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/63?checkedby:iptvcat.com
 #EXTINF:0,National Geographic
@@ -161,6 +169,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3291?checkedby:iptvcat.com
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179526?checkedby:iptvcat.com
 #EXTINF:0,Sky Sports Cricket HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1309?checkedby:iptvcat.com
+#EXTINF:0,Sky Sports F1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/14977?checkedby:iptvcat.com
 #EXTINF:0,Sky Sports Football HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179085?checkedby:iptvcat.com
 #EXTINF:0,SONY MOVIE CHANNEL
@@ -187,6 +197,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/902?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/13?checkedby:iptvcat.com
 #EXTINF:35,TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:0,TNT HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130906?checkedby:iptvcat.com
 #EXTINF:120,TNTLA 
 http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
 #EXTINF:0,Travel Channel HD
@@ -199,10 +211,11 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/704?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/1?checkedby:iptvcat.com
 #EXTINF:0,VH1
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/39?checkedby:iptvcat.com
+#EXTINF:0,Viceland
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130930?checkedby:iptvcat.com
+#EXTINF:0,WWE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137341?checkedby:iptvcat.com
 #EXTINF:0,WWE NETWORK 24/7
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/524?checkedby:iptvcat.com
 #EXTINF:0,Willow Cricket HD
 http://new-pro.tv:8080/Fernando/123321/72105?checkedby:iptvcat.com 
-#EXTINF:0,Discovery Science
-http://ttv.bz:83/m2r9EhQfqT/dmMB57FjXv/56?checkedby:iptvcat.com
-
