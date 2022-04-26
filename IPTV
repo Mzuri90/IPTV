@@ -57,10 +57,12 @@ https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/56?checkedby:iptvcat.com
 #EXTINF:0,DISCOVERY FAMILY
 http://fortv.cc:8080/alphonso/alphonso/10538?checkedby:iptvcat.com
-#EXTINF:0,DISCOVERY LIFE
-http://mains.services:2086/stanleyg/6916329/14880?checkedby:iptvcat.com
 #EXTINF:0,DISCOVERY SCIENCE
 http://mains.services:2086/stanleyg/6916329/13565?checkedby:iptvcat.com
+#EXTINF:0,Discovery Science HD
+http://new-pro.tv:8080/Fernando/123321/69420?checkedby:iptvcat.com
+#EXTINF:1,Discovery Velocity HD
+http://new-pro.tv:8080/Fernando/123321/122072?checkedby:iptvcat.com
 #EXTINF:0,Disney Channel
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/3277?checkedby:iptvcat.com
 #EXTINF:130,ESPN
@@ -107,6 +109,8 @@ http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/904?checkedby:iptvcat.com
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/65?checkedby:iptvcat.com
 #EXTINF:0,IFC
 http://ttv.bz:80/m2r9EhQfqT/dmMB57FjXv/51?checkedby:iptvcat.com
+#EXTINF:0,Investigation Discovery HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137358?checkedby:iptvcat.com
 #EXTINF:0,LIFETIME
 http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:0,Lifetime
