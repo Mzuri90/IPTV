@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
-http://mains.services:2086/stanleyg/6916329/13558?checkedby:iptvcat.com
+#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
+http://167.114.102.27/live/fe9X_ilamz8_tLKRQ38sLw/1455736112/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0,ABC
 http://fortv.cc:8080/alphonso/alphonso/22990?checkedby:iptvcat.com
 #EXTINF:24,Afrobeats
