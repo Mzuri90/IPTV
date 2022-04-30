@@ -60,16 +60,18 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137369?checkedby:iptvcat.com
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137435?checkedby:iptvcat.com
 #EXTINF:0,Investigation Discovery HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137358?checkedby:iptvcat.com
-#EXTINF:0,LIFETIME
-http://gtv01.airlinktt.co/live/smil:LIFETIME.smil/playlist.m3u8
-#EXTINF:0,LMN 
-http://gtv01.airlinktt.co/live/smil:LMN.smil/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Lifetime Movies
+http://new-pro.tv:8080/Fernando/123321/70526?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LMN HDTV
+http://new-pro.tv:8080/Fernando/123321/179371?checkedby:iptvcat.com
 #EXTINF:0,MTV HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137239?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130888?checkedby:iptvcat.com
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
+#EXTINF:-1,Nat.Geo
+http://iptv.electro-clair.net:8000/live/zizo/zizo/1761.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:119,RUSHHD 
