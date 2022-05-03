@@ -38,8 +38,6 @@ http://new-pro.tv:8080/Fernando/123321/70470?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Cinemax ActionMax
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130918?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CNN
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Comedy Central
-http://thetvvalet.com:8080/cody/cody/59731?checkedby:iptvcat.com
 #EXTINF:0,Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:0,Crime Time
