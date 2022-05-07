@@ -31,8 +31,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:0,Cheddar News
 https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2888" logo="https://i.imgur.com/F0N0TmU.jpg", Cinemax HD
-https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0,Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Discovery Science HD
