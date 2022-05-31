@@ -49,11 +49,11 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1592
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
 #EXTINF:-1,HISTORY CHANNEL HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
-#EXTINF:-1,HBO EAST USA
+#EXTINF:-1,HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1,HBO FAMILY HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
-#EXTINF:-1,HBO PLUS
+#EXTINF:-1,HBO +
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:-1,HBO SIGNATURE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
@@ -75,6 +75,8 @@ http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 http://mains.services:2086/clayboy/65Jssx1yS9/308
 #EXTINF:119,RUSHHD 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://fortv.cc:8080/Ronnie/Ronnie/53705
 #EXTINF:-1,SKY SPORTS F1 HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/4778
 #EXTINF:-1,SKY SPORTS MAIN EVENT
