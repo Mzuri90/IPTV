@@ -6,74 +6,27 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,AWE NETWORK HD
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 #EXTINF:0,BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:0,BeIN Sports HD
-http://new-pro.tv:8080/Fernando/123321/70427?checkedby:iptvcat.com
 #EXTINF:0,BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
-#EXTINF:0,BET Her
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282742?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bloomberg TV HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137420?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Boomerang
-http://new-pro.tv:8080/Fernando/123321/70384?checkedby:iptvcat.com
-#EXTINF:0,Bounce HD
-http://new-pro.tv:8080/Fernando/123321/219713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Bravo HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130926?checkedby:iptvcat.com
 #EXTINF:0,Cartoon Network
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:53,CBC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:35,CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
-#EXTINF:0,Cheddar News
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Crime Time
-https://crimetimebamca-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,Discovery Science HD
-http://new-pro.tv:8080/Fernando/123321/69420?checkedby:iptvcat.com
-#EXTINF:0,Discovery Velocity HD
-http://new-pro.tv:8080/Fernando/123321/122072?checkedby:iptvcat.com
-#EXTINF:0,Disney XD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/282879?checkedby:iptvcat.com
-#EXTINF:0,HBO Max
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/283362?checkedby:iptvcat.com
-#EXTINF:0,HBO 2 HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137369?checkedby:iptvcat.com
-#EXTINF:0,HGTV HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137435?checkedby:iptvcat.com
-#EXTINF:0,Investigation Discovery HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137358?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",Lifetime Movies
-http://new-pro.tv:8080/Fernando/123321/70526?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",LMN HDTV
-http://new-pro.tv:8080/Fernando/123321/179371?checkedby:iptvcat.com
-#EXTINF:0,MTV HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137239?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130888?checkedby:iptvcat.com
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:119,RUSHHD 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
-#EXTINF:0,Sky Sports Arena HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179526?checkedby:iptvcat.com
-#EXTINF:0,Sky Sports Cricket HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1309?checkedby:iptvcat.com
-#EXTINF:0,Sky Sports F1 FHD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/14977?checkedby:iptvcat.com
-#EXTINF:0,Sky Sports Football HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179085?checkedby:iptvcat.com
 #EXTINF:0,SPORTSMAX1 
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 #EXTINF:35,TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
-#EXTINF:120,TNTLA 
-http://38.127.211.18/live/c2eds/TNTLA/HLS/index.m3u8
-#EXTINF:0,Viceland
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130930?checkedby:iptvcat.com
+
 
