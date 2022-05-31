@@ -42,8 +42,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3
 #EXTINF:-1,FX HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1,FXX HD
-http://mains.services:2086/clayboy/65Jssx1yS9/95423
-#EXTINF:-1,FXX HD 2
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1591
 #EXTINF:-1,FXM
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1592
