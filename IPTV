@@ -13,8 +13,6 @@ http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1,BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/35825
 #EXTINF:-1,BRAVO HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:0,Cartoon Network
