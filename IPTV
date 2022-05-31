@@ -6,8 +6,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0,American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Animal Planet
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130904?checkedby:iptvcat.com
 #EXTINF:0,BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:0,BeIN Sports HD
