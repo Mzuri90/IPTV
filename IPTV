@@ -35,7 +35,6 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1,ESPNU HD
 #EXTINF:-1,ESPN SEC NETWORK HD
 http://fortv.cc:8080/Ronnie/Ronnie/17608
 #EXTINF:-1,FOOD NETWORK HD 
