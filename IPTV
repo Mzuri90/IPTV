@@ -23,18 +23,74 @@ http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:35,CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
+#EXTINF:-1,COMET TV
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
 #EXTINF:-1,CINEMAX EAST HD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1,CNN HD
+http://fortv.cc:8080/Ronnie/Ronnie/57398
+#EXTINF:-1,E! ENTERTAINMENT WEST HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
+#EXTINF:-1,FOOD NETWORK HD 
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
+#EXTINF:-1,FREEFORM 
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
+#EXTINF:-1,FLIX
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist.m3u8
+#EXTINF:-1,FUSE
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
+#EXTINF:-1,FX HD
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
+#EXTINF:-1,FXX HD
+http://mains.services:2086/clayboy/65Jssx1yS9/95423
+#EXTINF:-1,FXX HD 2
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1591
+#EXTINF:-1,FXM
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1592
+#EXTINF:-1,HGTV US
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
+#EXTINF:-1,HBO EAST USA
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
+#EXTINF:-1,HBO PLUS
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
+#EXTINF:-1,HBO
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
+#EXTINF:-1,HBO XTREME FHD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
+#EXTINF:-1,24/7 JUDGE JUDY
+http://ky-iptv.com:80/April555/April555/1861471.m3u8
+#EXTINF:-1,LIFETIME HD
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:119,RUSHHD 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://2690.ovh:25461/34baxmo5/56bwf44u/4784
 #EXTINF:0,SPORTSMAX1 
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
+#EXTINF:-1,SPORTSMAX 2
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX_2.smil/playlist.m3u
+#EXTINF:-1,STARZ ENCORE WESTERNS HD
+http://2690.ovh:25461/34baxmo5/56bwf44u/104030
+#EXTINF:-1,TENNIS CHANNEL HD
+http://2690.ovh:25461/34baxmo5/56bwf44u/104041
 #EXTINF:35,TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:-1,UFC Fight Pass HD US
+http://mains.services:2086/clayboy/65Jssx1yS9/99440
+#EXTINF:-1,WC. WILLOW CRICKET USA
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
 
 
 
