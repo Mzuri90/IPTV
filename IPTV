@@ -57,7 +57,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/pla
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playlist.m3u8
 #EXTINF:-1,HBO SIGNATURE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO POP
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAXUP.smil/playlist.m3u8
 #EXTINF:-1,HBO XTREME FHD
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
