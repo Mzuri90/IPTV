@@ -71,17 +71,15 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/play
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1,24/7 JUDGE JUDY
 http://ky-iptv.com:80/April555/April555/1861471.m3u8
-#EXTINF:-1,LIFETIME HD
+#EXTINF:-1,LIFETIME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
-#EXTINF:-1,NAT GEO WILD HD
+#EXTINF:-1,NATGEO WILD
 http://fortv.cc:8080/Ronnie/Ronnie/11664
 #EXTINF:-1,NBA HD
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
-#EXTINF:0,NFL Network HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/336.ts?checkedby:iptvcat.com
-#EXTINF:-1,OWN US
+#EXTINF:-1,OWN
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:119,RUSHHD 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
