@@ -97,6 +97,8 @@ http://fortv.cc:8080/Ronnie/Ronnie/9299
 http://2690.ovh:25461/34baxmo5/56bwf44u/104020
 #EXTINF:-1,TENNIS CHANNEL HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/104041
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",SuperSport Tennis
+http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
 #EXTINF:35,TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1,YES Network US
