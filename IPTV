@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:24,Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
+https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC
