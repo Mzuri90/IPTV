@@ -18,6 +18,8 @@ http://fortv.cc:8080/Ronnie/Ronnie/119410
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1,BET-HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
+http://qqtv.nl:8080/niloofar/niloofar/15543
 #EXTINF:-1,BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:0,CartoonNetwork
@@ -80,8 +82,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",Lifetime Movies
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:-1,unknown
-http://httpstreamer01.dc1.airlinktt.co/ottorigin015/live/smil:LMN.smil/playlist.m3u8
+#EXTINF:-1 group-title="ONLY MOVIES" tvg-logo="https://lo1.in/LOGO/MBCGROUP/MBCMAX.png",Mbc Max
+http://tv.nlt.wtf:24561/live/Ashley689/673175/104401.ts
 #EXTINF:-1,NATGEO WILD
 http://fortv.cc:8080/Ronnie/Ronnie/11664
 #EXTINF:-1,NBA HD
@@ -112,11 +114,8 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
 http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/652313
-#EXTINF:-1,YES Network US
-http://2690.ovh:25461/34baxmo5/56bwf44u/103798
 #EXTINF:-1,UFC Fight Pass
 http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
 #EXTINF:-1,Willow Cricket
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/138.m3u8
+
