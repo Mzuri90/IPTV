@@ -109,11 +109,13 @@ http://2690.ovh:25461/34baxmo5/56bwf44u/104020
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
 #EXTINF:35,TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:-1 group-title="24/7" tvg-logo="https://cdn.hmv.com/r/w-640/hmv/files/4b/4b9f64f3-5140-4d9e-a134-1eb54d7907cf.jpg",Tom And Jerry
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/652313
 #EXTINF:-1,YES Network US
 http://2690.ovh:25461/34baxmo5/56bwf44u/103798
 #EXTINF:-1,UFC Fight Pass
 http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
 #EXTINF:-1,Willow Cricket
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1,WWE Network
-http://2690.ovh:25461/34baxmo5/56bwf44u/104065
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
+http://qqtv.nl:8080/niloofar/niloofar/325241
