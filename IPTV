@@ -3,7 +3,7 @@
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/osaawandetdzxfen3ldz",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/AandE.us.png",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
