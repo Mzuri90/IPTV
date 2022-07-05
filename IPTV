@@ -57,7 +57,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",FLIX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fuse_Black_Logo_2017.png/640px-Fuse_Black_Logo_2017.png",FUSE
+#EXTINF:-1 group-title="ENTERTAINMENT" tv-logo="https://alchetron.com/cdn/fuse-tv-channel-ecb26741-bcad-4221-8660-f10b4d49455-resize-750.jpeg",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://lo1.in/LOGO/US/USACINEMA/FX.png",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
