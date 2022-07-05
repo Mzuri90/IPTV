@@ -81,8 +81,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ky-iptv.com:25461/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HIM.MY" tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies",HIT MOVIES
-http://103.47.132.164/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/InvestigationDiscovery.us.png",Investigation Discovery
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/LifetimeNetwork.us.png",LIFETIME
@@ -90,11 +88,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playl
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",LMN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://static.epg.best/us/NatGeoWild.us.png",NATGEO WILD
-http://fortv.cc:8080/Ronnie/Ronnie/11664
+http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png",NICKELODEON
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
@@ -103,22 +103,12 @@ https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",SKY SPORTS ACTION
 http://fortv.cc:8080/Ronnie/Ronnie/53705
-#EXTINF:-1,SKY SPORTS F1 HD
-http://2690.ovh:25461/34baxmo5/56bwf44u/4778
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",SKY SPORTS MAIN EVENT
-http://2690.ovh:25461/34baxmo5/56bwf44u/4784
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",SKY SPORTS MIX
-http://2690.ovh:25461/34baxmo5/56bwf44u/4782
 #EXTINF:0,SPORTSMAX 1 
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://fortv.cc:8080/Ronnie/Ronnie/9299
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/StarzComedy.us.png",STARZ COMEDY
-http://2690.ovh:25461/34baxmo5/56bwf44u/104020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",SuperSport Tennis
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis",Tennis Channel+
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC FIGHT PASS
