@@ -33,7 +33,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlis
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN HD
 http://fortv.cc:8080/Ronnie/Ronnie/57398
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203",DISNEY CHANNEL
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",DISNEY CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:DISNEY.smil/playlist.m3u
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://w7.pngwing.com/pngs/637/997/png-transparent-discovery-channel-television-channel-television-show-television-documentary-science-television-globe-logo.png",DISCOVERY CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playlist.m3u8
@@ -41,11 +41,11 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1,E! ENTERTAINMENT
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
-#EXTINF:-1,ESPN 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg",ESPN 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2020/02/ESPN-logo.jpg",ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1,ESPN SEC NETWORK
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/us/files/2014/08/SECN12-651x405.png",ESPN SEC NETWORK
 http://fortv.cc:8080/Ronnie/Ronnie/17608
 #EXTINF:-1,FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
@@ -83,7 +83,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314",INVESTIGATION DISCOVERY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509.jpg",LIFETIME
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/ed/ed/a6/ededa6b1e5d4e85eb3138036396f81a3.png",LIFETIME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",LMN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
