@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:24,AFRO BEATS
-https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://ecable.tv/wp-content/uploads/2019/02/1.png" group-title="Music",Afrobeats 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="NEWS",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/abc.png",ABC
@@ -15,9 +15,9 @@ https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1,BEIN SPORTS
 http://fortv.cc:8080/Ronnie/Ronnie/119410
-#EXTINF:0,BET 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BET.us.png",BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
-#EXTINF:-1,BET HER
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/BetHer.us.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/us/Boomerang.us.png",Boomerang
 http://qqtv.nl:8080/niloofar/niloofar/15543
@@ -25,7 +25,7 @@ http://qqtv.nl:8080/niloofar/niloofar/15543
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:0,CartoonNetwork
 http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
-#EXTINF:35,CBS 
+#EXTINF:35, group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/CBSKREX.us.png",CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1,COMET TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:COMET_TV.smil/playlist.m3u8
@@ -89,21 +89,25 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:-1,NATGEO WILD
 http://fortv.cc:8080/Ronnie/Ronnie/11664
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NFLTV.us.png",NFL
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NFL_TV.smil/playlist.m3u8
 #EXTINF:35,NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:-1,OWN
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1,SHOWTIME HD
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
-#EXTINF:-1,Sky Sports Action HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",Sky Sports Action
 http://fortv.cc:8080/Ronnie/Ronnie/53705
 #EXTINF:-1,SKY SPORTS F1 HD
 http://2690.ovh:25461/34baxmo5/56bwf44u/4778
-#EXTINF:-1,SKY SPORTS MAIN EVENT
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmaineventuk.jpg",Sky Sports Main Event
 http://2690.ovh:25461/34baxmo5/56bwf44u/4784
-#EXTINF:-1,SKY SPORTS MIX HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
 http://2690.ovh:25461/34baxmo5/56bwf44u/4782
 #EXTINF:0,SPORTSMAX1 
 http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
@@ -113,6 +117,8 @@ http://fortv.cc:8080/Ronnie/Ronnie/9299
 http://2690.ovh:25461/34baxmo5/56bwf44u/104020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Tennis",SuperSport Tennis
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://tennischanneleverywhere.com/resources/assets/tennischanneleverywhere/images/logos/tcplus-logo-1x-01.png" group-title="Tennis",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TNT.us.png",TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC Fight Pass
