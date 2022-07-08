@@ -49,23 +49,23 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/640px-SEC_Network_logo.svg.png",ESPN SEC NETWORK
 http://fortv.cc:8080/Ronnie/Ronnie/17608
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",FOOD NETWORK
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Food-Network-Logo.png",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Fox_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220305200103",FOX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://decider.com/wp-content/uploads/2020/05/Freeform.png?w=646&h=431&crop=1",FREEFORM 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Flix.svg/revision/latest?cb=20200630204319",FLIX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1433180516/FlixxTVlogo2_400x400.png",FLIX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Fuse_2015.svg/revision/latest?cb=20200428185746",FUSE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2015/07/fuse-logo1.jpg?w=681&h=383&crop=1&resize=681%2C383",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/FX2022.svg/revision/latest/scale-to-width-down/1000?cb=20220518142434",FX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/FXX.svg/revision/latest?cb=20161008111050",FXX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/800px-FXX_Logo.svg.png",FXX
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.usa.eastern.us.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/FX_Movie_Channel.svg/revision/latest?cb=20161008111221",FXM
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/800px-FXM_Logo.svg.png",FXM
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/FYI%2C_logo.svg/revision/latest?cb=20180402213328",FYI
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/640px-Game_Show_Network_2018.svg.png",GAME SHOW NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:GSN.smil/playlist.m3u8
