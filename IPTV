@@ -55,7 +55,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/c
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://decider.com/wp-content/uploads/2020/05/Freeform.png?w=646&h=431&crop=1",FREEFORM 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pbs.twimg.com/profile_images/1433180516/FlixxTVlogo2_400x400.png",FLIX
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",FLIX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:FLIXX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2015/07/fuse-logo1.jpg?w=681&h=383&crop=1&resize=681%2C383",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
