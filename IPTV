@@ -101,7 +101,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
 #EXTINF:0 group-title="NEWS" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_26/3392750/nbcnews_color_2_8.jpg",NBC News
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=420&deviceId=5df97894467dfa00091c873c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:24 group-title="SPORTS" tvg-logo="https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.svg",NFL
+#EXTINF:24 group-title="SPORTS" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/uowyiwxfcyccofswi5pz",NFL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2070&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
