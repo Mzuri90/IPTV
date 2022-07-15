@@ -107,12 +107,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://cms-tc.pbskids.org/globalresources/resources/img/pbs-kids-logo.svg?fhash=0fd970e",PBS KIDS
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
 http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",SHOWTIME FAMILY ZONE
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",SKY SPORTS ACTION
 http://fortv.cc:8080/Ronnie/Ronnie/53705
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1435297079967076353/KGBUhR2u_400x400.jpg",SPORTSMAX  
@@ -121,8 +125,12 @@ http://38.127.211.18/live/c2eds/Sportsmax1/HLS/index.m3u8
 http://fortv.cc:8080/Ronnie/Ronnie/9299
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png",SUPERSPORT TENNIS
 http://tv.nlt.wtf:24561/live/Ashley689/673175/104135.ts
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC (East)
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/640px-TNT_Logo_2016.svg.png",TNT 
 http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png",TV One
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC FIGHT PASS
 http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/08/58/8f/08588f8586b37d13227cf03b6bb13e3b.jpg",USA Network
