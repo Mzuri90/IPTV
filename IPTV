@@ -87,7 +87,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://brief.promax.org/images/uploads/ID-logo-new.jpg",INVESTIGATION DISCOVERY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
-#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.judgejudy.com/images/logo.png",The Judge Judy Channel
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://www.judgejudy.com/images/logo.png",JUDGE JUDY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6283d51144ad8f0007fa382d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1120&deviceId=6283d51144ad8f0007fa382d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/ed/ed/a6/ededa6b1e5d4e85eb3138036396f81a3.png",LIFETIME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
