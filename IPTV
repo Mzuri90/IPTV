@@ -103,9 +103,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:OWN.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ru/RTUS.ru.png",RT US
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.sho.com/site/image-bin/images/0_0_0/0_0_0_prm-ogsho_1280x640.jpg",SHOWTIME
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1200px-Showtime_Family_Zone.svg.png",SHOWTIME FAMILY ZONE
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png",SHOWTIME FAMILY ZONE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",SKY SPORTS ACTION
 http://fortv.cc:8080/Ronnie/Ronnie/53705
