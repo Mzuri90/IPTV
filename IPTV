@@ -109,8 +109,8 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",SKY SPORTS ACTION
 http://fortv.cc:8080/Ronnie/Ronnie/53705
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_2022.png",SPORTSMAX
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/WQT8sFF2ihYwaGeliy2zExL03CtwMvL8sTiSUl0oNYu9aeosnUXhcGQ6fF_r39OKo1xh",SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://fortv.cc:8080/Ronnie/Ronnie/9299
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png",SUPERSPORT TENNIS
