@@ -41,9 +41,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:DISCOVERY.smil/playli
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/08/d5/e9/08d5e94768b2a67efd06fd185f69b581.png",E! ENTERTAINMENT
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/espnuk/files/2014/02/ESPN-630.jpg",ESPN 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 1
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://espnpressroom.com/espnuk/files/2014/02/ESPN-630.jpg",ESPN 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/640px-SEC_Network_logo.svg.png",ESPN SEC NETWORK
 http://fortv.cc:8080/Ronnie/Ronnie/17608
