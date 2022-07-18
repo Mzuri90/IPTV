@@ -93,7 +93,7 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png",NFL
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=26457&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
@@ -109,7 +109,7 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsactionuk.jpg",SKY SPORTS ACTION
 http://fortv.cc:8080/Ronnie/Ronnie/53705
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1435297079967076353/KGBUhR2u_400x400.jpg",SPORTSMAX
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_2022.png",SPORTSMAX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://fortv.cc:8080/Ronnie/Ronnie/9299
