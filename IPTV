@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg",AFROBEATS 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/Al-Jazeera-Logo.png",Al JAZEERA English
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_isohswgb/def_height/2700/def_width/2700/version/100012/type/1",Al JAZEERA English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
@@ -47,7 +47,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:ESPN_CARIBBEAN.smil
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/640px-SEC_Network_logo.svg.png",ESPN SEC NETWORK
 http://fortv.cc:8080/Ronnie/Ronnie/17608
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Food-Network-Logo.png",FOOD NETWORK
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/8e/a0/37/8ea037c1994129da0813482ef3fcda6e.jpg",FOOD NETWORK
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FOOD_NETWORK.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.woodbrothersracing.com/wp-content/uploads/sites/18/2017/10/FOX-Broadcast-logo.jpg",FOX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:FOX.smil/chunklist_b1160000.m3u8
