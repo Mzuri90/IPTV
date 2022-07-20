@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U url-tvg="http://127.0.0.1:1234/tvguide.xml.gz" refresh="1800"
-
 #EXTINF:-1 tvg-id="ABC" tvg-logo="http://127.0.0.1:1234/logos/ABC.png" group-title="Entertainment",ABC
 http://127.0.0.1:1234/ABC/myStream/playlist.m3u8
 
