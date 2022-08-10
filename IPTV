@@ -12,7 +12,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.conceptmanagement.co.uk/wp-content/uploads/2016/03/BBC-Logo.jpg",BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.bein.com/en/wp-content/uploads/sites/3/2019/06/sports.png",BEIN SPORTS
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1501
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:BEIN_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/atachbfCgdZpUBDnMXG9iC.jpg",BET 
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/264-2641373_bet-her-logo-png.png",BET HER
