@@ -132,4 +132,4 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
-http://144.217.98.14:80/NFLNETWORK/tracks-v1a1/mono.m3u8
+https://livestream-f.akamaihd.net/i/26123197_7757308_lsilt8bi2zrgju5jcvm_1@414011/index_2128_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1506774399~acl=%2fi%2f26123197_7757308_lsilt8bi2zrgju5jcvm_1%40414011%2f*~data=hdntl~hmac=7419165a3ff88d99bd6c14923f6dc5f40f40a637dbc9516043d5f708f5fe9117
