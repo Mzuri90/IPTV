@@ -132,4 +132,4 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL Network HD
-https://embedstream.me/nfl-network-stream-1
+http://144.217.98.14:80/NFLNETWORK/tracks-v1a1/mono.m3u8
