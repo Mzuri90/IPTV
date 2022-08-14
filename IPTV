@@ -25,6 +25,8 @@ http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.btig.com/wp-content/uploads/2018/11/CNN_Logo.jpg",CNN HD
 http://fortv.cc:8080/Ronnie/Ronnie/57398
+#EXTINF:-1 tvg-id="15192" tvg-logo="https://i.imgur.com/c9dAWbu.png?1" group-title="LOKAL",CNN International
+https://1828529515.rsc.cdn77.org/1ZLXwQNYXSDYWiT_WmL4_w==,1579330783/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png",COOKING CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:COOKING.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/1000?cb=20220617130330",DISNEY CHANNEL
@@ -71,6 +73,8 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg",HBO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA PREMIUM-SERVER2",HBO HD
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-family-logo.jpg",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://mpng.subpng.com/20180806/euw/kisspng-logo-product-design-brand-font-combate-ao-vivo-hd-online-kalentri-2018-5b68ae9e1ee8f5.6751575315335871021266.jpg",HBO PLUS
@@ -91,10 +95,9 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC 
 http://gtv01.airlinktt.co/live/smil:NBC.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBCSNWashington.us.png",NBC Sports Network
-http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/234677.m3u8
+
 #EXTINF:0 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
-http://gtv01.airlinktt.co/live/smil:NFL.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
@@ -111,6 +114,8 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/Showtime/cox-premium-channel-showtime-familyzone.jpg",SHOWTIME FAMILY ZONE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
+#EXTINF:-1,SkySports
+http://218.144.144.183:9981/stream/channelid/1849568050
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
