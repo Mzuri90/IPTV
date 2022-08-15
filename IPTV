@@ -112,7 +112,8 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pyxis.nymag.com/v1/imgs/734/693/eb90bacad1eeb2bd3a3501e0278ee57da4-03-showtime-logo.rsquare.w330.jpg",SHOWTIME
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://ia800801.us.archive.org/2/items/Showtime2_201708/showtime%202.png",SHOWTIME 2 (East)
-http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:STARS.smil/playlist.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/showtime2.usa.eastern.us.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Showtime.us.png",SHOWTIME (West)
 http://n2086.securepoint.io:25461/live/CPhbj3y3NB/QHa6WUFIwe/56304.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
