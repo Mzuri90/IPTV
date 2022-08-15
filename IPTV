@@ -87,15 +87,16 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://multireach.in/wp-content/uploads/2020/09/natgeowild.jpg",NATGEO WILD
 http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nba.tv.us.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nba.tv.canada.ca.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=26457&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo=,NFL TEST
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.channel.canada.ca.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",NFL TEST
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.tv.canada.ca.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
@@ -124,8 +125,7 @@ http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logodix.com/logo/1774209.jpg",TV One
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC FIGHT PASS
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/ufc.fight.pass.usa.us.m3u8
-#http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
+http://tv.nlt.wtf:24561/live/Ashley689/673175/69574.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/08/58/8f/08588f8586b37d13227cf03b6bb13e3b.jpg",USA NETWORK
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.logolynx.com/images/logolynx/9f/9f74b519411799186a75fb273d2eae29.jpeg",WARNER TV
