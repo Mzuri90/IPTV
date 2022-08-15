@@ -133,5 +133,5 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT Sport 1 UK
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/110708
