@@ -134,4 +134,4 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:-1,SPORTSMAX
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:SPORTSMAX.smil/chunklist_b1160000_slen.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:NFL.smil/chunklist_b1160000_slen.m3u8
