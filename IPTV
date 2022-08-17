@@ -70,7 +70,7 @@ https://h5.ustvgo.la/FXX/myStream/chunks.m3u8?nimblesessionid=148461369&wmsAuthS
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX HD
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
+https://h3.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=251500281&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjIwOjI0IFBNJmhhc2hfdmFsdWU9ZW1uRmpORjgwYnFYckpOUkc4aWZPdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/640px-Game_Show_Network_2018.svg.png",GAME SHOW NETWORK
