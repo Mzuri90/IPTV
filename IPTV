@@ -26,7 +26,7 @@ http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2020/12/CBS-logo.jpg",CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS SPORTS
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1281
+https://h4.ustvgo.la/CBSSN/myStream/chunks.m3u8?nimblesessionid=251017431&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjEyOjA3IFBNJmhhc2hfdmFsdWU9emNobTdheE1xSmhnRGVsenJuVVlFZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",CINEMAX
 https://h5.ustvgo.la/Cinemax/myStream/chunks.m3u8?nimblesessionid=148479341&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjUzOjU5IFBNJmhhc2hfdmFsdWU9ZXRRd2VHY05HMEhMWTVTRDBlRDM3dz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",CINEMAX 2
@@ -139,5 +139,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/Xbw4C9zqUTG2LX5A9tyMLi-1200-80.png",WE TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png",WWE NETWORK
+https://h5.ustvgo.la/WWE/myStream/chunks.m3u8?nimblesessionid=148486366&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDExOjEzOjIxIFBNJmhhc2hfdmFsdWU9U0tJV1B3bDRuNWNrcHZMWXY0M0Fwdz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
