@@ -118,7 +118,7 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
-http://fortv.cc:8080/Ronnie/Ronnie/9299
+https://h1.ustvgo.la/StarZ/myStream/chunks.m3u8?nimblesessionid=286052609&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjUyOjA0IFBNJmhhc2hfdmFsdWU9SmN6NFJ1ZDVNZGV1ckZXRVJxTHNFZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg",SYFY
 https://h3.ustvgo.la/SYFY/myStream/chunks.m3u8?nimblesessionid=251478279&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjMzOjE0IFBNJmhhc2hfdmFsdWU9ZVd3Y1BCWTdZM2JRYjdBMTJtOFNFZz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
