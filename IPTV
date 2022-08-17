@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg",SYFY
-https://h5.ustvgo.la/FXX/myStream/chunks.m3u8?nimblesessionid=148461369&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjE5OjA5IFBNJmhhc2hfdmFsdWU9aVRFNGRJQStZcE45M05CcnUraEZsUT09JnZhbGlkbWludXRlcz0yNDA=
-#http://live.tv247.club/tv247/syfy.m3u8
+http://live.tv247.club/tv247/syfy.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",A&E
@@ -63,7 +62,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.usa.eastern.us.m3u8
+https://h5.ustvgo.la/FXX/myStream/chunks.m3u8?nimblesessionid=148461369&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjE5OjA5IFBNJmhhc2hfdmFsdWU9aVRFNGRJQStZcE45M05CcnUraEZsUT09JnZhbGlkbWludXRlcz0yNDA=
+#https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
