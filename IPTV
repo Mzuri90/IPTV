@@ -42,7 +42,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DISCOVERY_TURBO.smi
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/08/d5/e9/08d5e94768b2a67efd06fd185f69b581.png",E! ENTERTAINMENT
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:E.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 1
-https://k1.ustvgo.la/ESPN/vipStream/chunks.m3u8?nimblesessionid=11409351&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjM2OjI1IFBNJmhhc2hfdmFsdWU9aVJlelVUSEcvVU95QytRdUU1YjNHdz09JnZhbGlkbWludXRlcz0yNDA=
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/89211
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png",ESPN 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ESPN2_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS.png",FLOW SPORTS 
@@ -76,8 +76,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/history-channel-logo-7821A600FE-seeklogo.com.jpg",HISTORY CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg",HBO
-https://h5.ustvgo.la/HBO/vipStream/chunks.m3u8?nimblesessionid=148470010&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjQyOjA4IFBNJmhhc2hfdmFsdWU9NFNVM3BlQW1vTkVnOGQrVUhUZndSUT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2019/11/hbo-logo.jpg",HBO 2
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_CARIBBEAN.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://webcdn.cox.com/content/dam/cox/residential/flex/images/logos/channel/premiums/HBO/premium-channel-hbo-family-logo.jpg",HBO FAMILY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_FAMILY.smil/playlist.m3u8
@@ -96,11 +94,11 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 #EXTINF:-1 group-title="ANIMALS" tvg-logo="https://multireach.in/wp-content/uploads/2020/09/natgeowild.jpg",NATGEO WILD
 http://tv.nlt.wtf:24561/live/Ashley689/673175/30.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
-https://h5.ustvgo.la/NBA/vipStream/chunks.m3u8?nimblesessionid=148469271&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjM3OjUzIFBNJmhhc2hfdmFsdWU9SXljM2ZnaWFhMUVhOHVLcmlydGV3dz09JnZhbGlkbWludXRlcz0yNDA=
+http://ky-iptv.com:80/theruler/theruler/399411.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
-https://h4.ustvgo.la/NFL/vipStream/chunks.m3u8?nimblesessionid=251001505&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjQwOjE3IFBNJmhhc2hfdmFsdWU9SkY3bFAwWHZGT0g4QndFR21vdGViQT09JnZhbGlkbWludXRlcz0yNDA=
+https://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/6/chunks.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
