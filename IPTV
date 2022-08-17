@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg",SYFY
-http://live.tv247.club/tv247/syfy.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",A&E
@@ -17,6 +15,8 @@ http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
 http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/264-2641373_bet-her-logo-png.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang
+https://h3.ustvgo.la/Boomerang/myStream/chunks.m3u8?nimblesessionid=251475329&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIyIDEwOjIzOjQ3IFBNJmhhc2hfdmFsdWU9MVMrYXRObGdBeWNRdzc1QUErQ21adz09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT SPORT
@@ -120,6 +120,8 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://fortv.cc:8080/Ronnie/Ronnie/9299
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg",SYFY
+http://live.tv247.club/tv247/syfy.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG-320-80.png",TNT 
