@@ -16,7 +16,7 @@ http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/264-2641373_bet-her-logo-png.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",BOOMERANG
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:BOOMERANG.smil/chunklist_b1160000_slen.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:BOOMERANG.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT SPORT
@@ -26,7 +26,7 @@ http://gtv01.airlinktt.co/live/smil:CARTOON.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2020/12/CBS-logo.jpg",CBS 
 http://gtv01.airlinktt.co/live/smil:CBS.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/cbbssportsnetworkus.jpg",CBS SPORTS
-hhttp://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CBS_SPORTS.smil/chunklist_b1160000_slen.m3u8
+hhttp://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:CBS_SPORTS.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",CINEMAX
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:CINEMAX.smil/chunklist_b2160000_slen.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/1fhqoEE.png",CNN
