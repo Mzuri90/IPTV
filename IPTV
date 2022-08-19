@@ -16,7 +16,7 @@ http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/264-2641373_bet-her-logo-png.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",BOOMERANG
-http://193.33.39.108:8107/30710
+https://h1.ustvgo.la/Boomerang/myStream/l_16468_2215418_6953.ts?nimblesessionid=286893757&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIyIDI6MzE6MzggUE0maGFzaF92YWx1ZT1IWElYaEdiQjRkMGRZY1R5T1ZSQzN3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT SPORT
