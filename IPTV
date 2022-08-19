@@ -16,7 +16,7 @@ http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/264-2641373_bet-her-logo-png.png",BET HER
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",BOOMERANG
-https://h2.ustvgo.la/Boomerang/myStream/l_16729_4904170_7401.ts?nimblesessionid=259568136&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIyIDM6MTY6MzQgUE0maGFzaF92YWx1ZT1RQXJRVjZkNGtJR0hNTTAyWm9yNVFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/Boomerang/myStream/l_16729_5340573_7474.ts?nimblesessionid=259568924&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIyIDM6MTY6MzQgUE0maGFzaF92YWx1ZT1RQXJRVjZkNGtJR0hNTTAyWm9yNVFRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png",BT SPORT
