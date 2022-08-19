@@ -64,9 +64,9 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia05/live/smil:FXX.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FXX.smil/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia07/live/smil:FX_MOVIES.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FXM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/640px-Game_Show_Network_2018.svg.png",GAME SHOW NETWORK
