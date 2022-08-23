@@ -64,7 +64,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX
-https://nl2.streamlive.to/vlc/o34rbbvdwmdoiak/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDIyIDM6MjM6MTMgUE0maGFzaF92YWx1ZT1MNi9seWNXOEpqY2NCNXdwc1dvZE9BPT0mdmFsaWRtaW51dGVzPTI0MCZzdHJtX2xlbj0xOSZpZD0w
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
@@ -121,6 +121,14 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SPIKE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS EPL" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
+#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event1
+http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98777
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event2
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=37073&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="http://mo-salah.net:24561/_tvlogo/1569714509_fbd57a13af9d3955.png" group-title="Sports",Sky Sports Mix FHD
+http://mo-salah.net:24561/live/sdwrfdgsa/oVUIW8Tw/9.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2017/05/syfy-new-black-logo-featured.jpg",SYFY
