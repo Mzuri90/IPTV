@@ -66,7 +66,7 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX
 http://mains.services:2086/A.Jones01/1904550/16200
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
-http://mains.services:2087/A.Jones02/1904550/16200
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:FXM.smil/playlist.m3u8
 #https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FYI.smil/playlist.m3u8
@@ -139,7 +139,7 @@ http://gtv01.airlinktt.co/live/smil:TNT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logodix.com/logo/1774209.jpg",TV One
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:TV_ONE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/ufcfightpassus.jpg",UFC FIGHT PASS
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:UFC.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:UFC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/08/58/8f/08588f8586b37d13227cf03b6bb13e3b.jpg",USA NETWORK
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.logolynx.com/images/logolynx/9f/9f74b519411799186a75fb273d2eae29.jpeg",WARNER TV
@@ -147,6 +147,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/Xbw4C9zqUTG2LX5A9tyMLi-1200-80.png",WE TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png",WWE NETWORK
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WWE.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WWE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
