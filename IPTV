@@ -123,7 +123,7 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SPIKE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
-#EXTINF:-1 group-title="SPORTS EPL" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
 http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98777
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",Sky Sports Mix
