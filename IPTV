@@ -149,4 +149,5 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png",WWE NETWORK
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/wwe.network.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
-http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/willow.cricket.us.m3u8
+#http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
