@@ -101,8 +101,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NFLN.smil/playlist.m3u8
-#https://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/6/chunks.m3u8
+https://mxpj.e37f89fd7e68c7.cdn.fdcservers.com/channel/6/chunks.m3u8
+#http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NFLN.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:NICKELODEON.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png",OWN
