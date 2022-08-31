@@ -155,8 +155,5 @@ https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/wwe.network.us
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 #https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/willow.us.m3u8
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
-#EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",beIN Sports 1 US
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/1501
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",BEINSPORTS
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/beinsports.us.m3u8
