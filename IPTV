@@ -123,15 +123,15 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png",SHOWTIME EXTREME
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/showtime.extreme.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/263-2636938_showtime-next-showtime-family-zone-logo.png",SHO NEXT
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/showtime.next.us.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sho.next.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.nicepng.com/png/detail/232-2327127_spike-tv-logo.png",SPIKE
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/spike.tv.us.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/spike.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98775
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sky.sports.premier.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
-http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/98777
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sky.sports.main.event.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",SKY SPORTS MIX
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8336&extension=ts&play_token=TQ6cftyhX8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sky.sports.mix.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2017/05/syfy-new-black-logo-featured.jpg",SYFY
@@ -151,9 +151,9 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/Xbw4C9zqUTG2LX5A9tyMLi-1200-80.png",WE TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png",WWE NETWORK
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/wwe.network.us.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/wwenetwork.us.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 #https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/willow.us.m3u8
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",BEINSPORTS
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/beinsports.us.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/bein.sports.us.m3u8
