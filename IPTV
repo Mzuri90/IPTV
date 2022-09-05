@@ -59,13 +59,13 @@ http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/33472
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://decider.com/wp-content/uploads/2020/05/Freeform.png?w=646&h=431&crop=1",FREEFORM 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",FLIX
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/flix.us.m3u8
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/155990.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2015/07/fuse-logo1.jpg?w=681&h=383&crop=1&resize=681%2C383",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FX.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/736x/92/02/79/9202790b87dc02a1af565c4a4eb1a403.jpg",FXX
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fxx.us.m3u8
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=17308&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ytimg.com/vi/h4-8aC8bs9E/mqdefault.jpg",FXM
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/fx.movie.channel.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/280x280_RS/90/e0/af/90e0afe7e81a05c7609f87cdb94be42d.jpg",FYI
@@ -155,3 +155,5 @@ https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/wwe.network.us
 http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",BEINSPORTS
 http://gtv01.airlinktt.co/live/smil:BEIN_SPORTS.smil/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/SPORTSMAX.png",Sports Max 
+http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:SPORTSMAX.smil/playlist.m3u8
