@@ -61,7 +61,7 @@ http://tv.jovialservices.me:826/Madtown09/skxMuFSPgv/33472
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://decider.com/wp-content/uploads/2020/05/Freeform.png?w=646&h=431&crop=1",FREEFORM 
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FREEFORM.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png",FLIX
-http://gtv01.airlinktt.co/live/smil:FLIXX.smil/playlist.m3u8
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/flix.eastern.us.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://variety.com/wp-content/uploads/2015/07/fuse-logo1.jpg?w=681&h=383&crop=1&resize=681%2C383",FUSE
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:FUSE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.pinimg.com/originals/26/67/cc/2667cc6d48b116b21fe3be2f81d19dd1.jpg",FX
@@ -125,7 +125,7 @@ http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png",SHOWTIME EXTREME
 http://gtv01.airlinktt.co/live/smil:SHOWTIME_EXTREME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/263-2636938_showtime-next-showtime-family-zone-logo.png",SHO NEXT
-http://gtv01.airlinktt.co/live/smil:SHO_NEXT.smil/playlist.m3u8
+https://iptvcat.com/
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.nicepng.com/png/detail/232-2327127_spike-tv-logo.png",SPIKE
 http://gtv01.airlinktt.co/live/smil:SPIKE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
