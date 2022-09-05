@@ -84,7 +84,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/HBO-Max-Emblem.png",HBO MAX
-http://gtv01.airlinktt.co/live/smil:HBO_MAX.smil/playlist.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/hbo.max.eastern.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://brief.promax.org/images/uploads/ID-logo-new.jpg",INVESTIGATION DISCOVERY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://uploads.dailydot.com/2020/06/lifetime.jpg?auto=compress&fm=pjpg",LIFETIME
@@ -118,7 +118,7 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pyxis.nymag.com/v1/imgs/734/693/eb90bacad1eeb2bd3a3501e0278ee57da4-03-showtime-logo.rsquare.w330.jpg",SHOWTIME
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://p.kindpng.com/picc/s/329-3296935_showtime-extreme-logo-hd-png-download.png",SHOWTIME EXTREME
-http://gtv01.airlinktt.co/live/smil:SHOWTIME_EXTREME.smil/playlist.m3u8
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/showtime.extreme.eastern.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/detail/263-2636938_showtime-next-showtime-family-zone-logo.png",SHO NEXT
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sho.next.eastern.us.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.nicepng.com/png/detail/232-2327127_spike-tv-logo.png",SPIKE
