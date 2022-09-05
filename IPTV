@@ -129,11 +129,11 @@ http://gtv01.airlinktt.co/live/smil:SHO_NEXT.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.nicepng.com/png/detail/232-2327127_spike-tv-logo.png",SPIKE
 http://gtv01.airlinktt.co/live/smil:SPIKE.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg",SKY SPORTS PREMIER LEAGUE
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:SPORTS_PREMIER_LEAGUE.smil/playlist.m3u8
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:SPORTS_PREMIER.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/sky-sports-main-event-uk.png",SKY SPORTS MAIN EVENT
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:SPORTS_MAIN.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/skysportsmixhd.jpg",SKY SPORTS MIX
-https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/sky.sports.mix.us.m3u8
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53983
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2017/05/syfy-new-black-logo-featured.jpg",SYFY
