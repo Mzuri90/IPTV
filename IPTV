@@ -128,7 +128,7 @@ http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/110178
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2017/05/syfy-new-black-logo-featured.jpg",SYFY
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://image.roku.com/developer_channels/prod/ce031a6dcde37961290d307f332be0bbf79add1b65ce32ba1dd32208d4a713b6.png",TENNIS PLUS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2012%2F02%2F27%2F23%2FWDL-Logo-12304_10904_042734464_2043731764.jpg",TENNIS PLUS
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
 #EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
