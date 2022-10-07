@@ -11,7 +11,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:ANIMAL_PLANET.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.conceptmanagement.co.uk/wp-content/uploads/2016/03/BBC-Logo.jpg",BBC
 http://gtv01.airlinktt.co/live/smil:BBC_WORLD.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS " tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS HD
 http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/1501
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/beINSports.us.png",BEIN SPORTS
 http://ky-iptv.com:80/zahidkhan123/zahidkhan123/220395.m3u8
@@ -96,9 +96,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCO
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png",LMN
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
-http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:NBA_TV.smil/playlist.m3u8
-#EXTINF:0 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV 2
+#EXTINF:0 group-title="SPORTS" tvg-logo="https://static.epg.best/us/NBATV.us.png",NBA TV
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
