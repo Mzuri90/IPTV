@@ -79,8 +79,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:0 group-title="NEWS" tvg-logo="https://i0.wp.com/hgptv.com/wp-content/uploads/2017/12/cropped-HGPTV-png-logo-Main-1.png?fit=512%2C512&ssl=1",HGPTV 
-http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://programminginsider.com/wp-content/uploads/2020/06/HGTV1.jpg",HGTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/history-channel-logo-7821A600FE-seeklogo.com.jpg",HISTORY CHANNEL
@@ -97,8 +95,6 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
-EXTINF:0 group-title="NEWS" tvg-logo="https://images.radiovolna.net/_files/images/stations/421263/2a37bad0adf336870302697501c450bf.jpg",NCN GUYANA 
-http://bkm100.gttstreamtv.com/NCN/NCN.isml/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.network.us.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://seeklogo.com/images/N/nick-at-nite-logo-B527B7E520-seeklogo.com.png",NICK@NITE
