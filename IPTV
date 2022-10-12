@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
+#EXTINF:35 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",A&E
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",A&E
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:A&E.smil/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg",AFROBEATS 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -115,6 +115,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlis
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
 http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
+#EXTINF:-1 group-title="24/7" tvg-logo="https://m.media-amazon.com/images/I/51AJa418SVL.jpg",SANFORD & SON
+http://megaott.cx:900/live/t12mgxy282/556175751453161/400453768.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pyxis.nymag.com/v1/imgs/734/693/eb90bacad1eeb2bd3a3501e0278ee57da4-03-showtime-logo.rsquare.w330.jpg",SHOWTIME
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://play-lh.googleusercontent.com/WQT8sFF2ihYwaGeliy2zExL03CtwMvL8sTiSUl0oNYu9aeosnUXhcGQ6fF_r39OKo1xh",SPORTS MAX 
