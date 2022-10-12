@@ -19,7 +19,6 @@ http://gtv01.airlinktt.co/live/smil:BET.smil/playlist.m3u8
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:CENTRIC.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",BOOMERANG
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/boomerang.us.m3u8
-#http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10926&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.bravotv.com/sites/bravo/files/field_blog_image/2017/02/dish-020717-bravo-refresh.jpg",BRAVO
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:BRAVO.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype.png",CARTOON NETWORK
