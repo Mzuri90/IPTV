@@ -97,7 +97,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:0 group-title="NEWS" tvg-logo="https://images.radiovolna.net/_files/images/stations/421263/2a37bad0adf336870302697501c450bf.jpg",NCN GUYANA 
+EXTINF:0 group-title="NEWS" tvg-logo="https://images.radiovolna.net/_files/images/stations/421263/2a37bad0adf336870302697501c450bf.jpg",NCN GUYANA 
 http://bkm100.gttstreamtv.com/NCN/NCN.isml/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.network.us.m3u8
@@ -139,8 +139,8 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:USA.smil/playlist.m3u
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/Xbw4C9zqUTG2LX5A9tyMLi-1200-80.png",WE TV
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
-#EXTINF:-1 group-title="PEACOCK SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE Network
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/117476
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://xtream-coders.com/x0/entertainment/wwe_network.png",WWE NETWORK
+http://neomixs.com:8080/oguzonersl/030620Bs5a/137341
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW CRICKET
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
 #EXTINF:36 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW 2 CRICKET
