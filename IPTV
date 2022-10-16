@@ -79,13 +79,13 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_PLUS.smil/playl
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:HBO_SIGNATURE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg",HBO XTREME
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:MAX_PRIME.smil/playlist.m3u8
-#EXTINF:0 group-title="Local" tvg-logo="https://hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",HGPTV 
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://hgptv.com/wp-content/uploads/2017/12/HGPTV-png-logo-Main.png",HGPTV 
 http://bkm100.gttstreamtv.com/HGPTV/HGPTV.isml/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://programminginsider.com/wp-content/uploads/2020/06/HGTV1.jpg",HGTV
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HGTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/H/history-channel-logo-7821A600FE-seeklogo.com.jpg",HISTORY CHANNEL
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:HISTORY.smil/playlist.m3u8
-#EXTINF:0 group-title="Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0M-pAknepiQppvGyrthk46S53cGJlMWKHCiZlVw2P3g&s",HJTV 
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0M-pAknepiQppvGyrthk46S53cGJlMWKHCiZlVw2P3g&s",HJTV 
 http://bkm100.gttstreamtv.com/HJTV/HJTV.isml/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://brief.promax.org/images/uploads/ID-logo-new.jpg",INVESTIGATION DISCOVERY
 http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:INVESTIGATION_DISCOVERY.smil/playlist.m3u8
@@ -97,7 +97,7 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin03/live/smil:LMN.smil/playlist.m
 http://gtv01.airlinktt.co/live/smil:NBA_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://tm.ibxk.com.br//ms/images/highlights/000/050/335/47502.jpg",NBC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:NBC.smil/chunklist_b1160000_slen.m3u8
-#EXTINF:0 group-title="Local" tvg-logo="https://www.radioheritage.com/wp-content/uploads/2010/10/NCN-Guyana-logo-FB.jpg",NCN GUYANA
+#EXTINF:0 group-title="LOCAL" tvg-logo="https://www.radioheritage.com/wp-content/uploads/2010/10/NCN-Guyana-logo-FB.jpg",NCN GUYANA
 http://gtv01.airlinktt.co/live/smil:NCN_GUYANA.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/b3/b34d224b77d2e56730a9250a01149d8f.png",NFL
 https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nfl.network.us.m3u8
