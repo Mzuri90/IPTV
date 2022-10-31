@@ -119,6 +119,8 @@ http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
 http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lvupvmnk.ss.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
+http://ys-users.com:8080/mattlightner98@gmail.com/AA8KaWAqcc/434250
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
