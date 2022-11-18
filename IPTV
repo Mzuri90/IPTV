@@ -115,20 +115,14 @@ http://httpstreamer01.dc1.airlinktt.co/hlsnmia01/live/smil:PBS_KIDS.smil/playlis
 https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/RUSHSPORTS.png",RUSH SPORTS 
 http://king-tv.net:8080/Jp/Za2EzaGxxp/247617.ts
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://pyxis.nymag.com/v1/imgs/734/693/eb90bacad1eeb2bd3a3501e0278ee57da4-03-showtime-logo.rsquare.w330.jpg",SHOWTIME
-http://primestreams.tv:826/live/12month0406/Rj6ul3S3P7/1580.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/twMKgz9.png",Sky Sports Football
 https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/lvupvmnk.ss.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://picon-13398.kxcdn.com/supersport-la-liga-za.jpg",SuperSport La Liga
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/239076
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://glmtv.pw/logo/prestige/United-States/RSA_SuperSport_Cricke.png",SuperSport Premier League
-https://tvnow.best/api/stream/mattzack@gmail.com/penwood1/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://miro.medium.com/max/2942/1*oLWIusGCzr6bjjFHUyz83g.jpeg",STARZ
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9666&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://deadline.com/wp-content/uploads/2017/05/syfy-new-black-logo-featured.jpg",SYFY
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:SYFY.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2012%2F02%2F27%2F23%2FWDL-Logo-12304_10904_042734464_2043731764.jpg",TENNIS PLUS
-http://tv.jovialservices.me:826/12month0406/Rj6ul3S3P7/109215
 #EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC
 http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:TLC.smil/playlist.m3u8
 #EXTINF:35 group-title="ENTERTAINMENT" tvg-logo="https://cdn.mos.cms.futurecdn.net/SDvVNFZEZMHDBqEayeR7ZG-320-80.png",TNT 
@@ -145,5 +139,3 @@ http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WARNER.smil/playlis
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:WE_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW
 http://httpstreamer01.dc1.airlinktt.co/ottorigin01/live/smil:WILLOW.smil/playlist.m3u8
-#EXTINF:36 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg",WILLOW 2 
-http://gtv01.airlinktt.co/live/smil:WILLOW.smil/playlist.m3u8
