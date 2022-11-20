@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-id="BBC One HD" tvg-name="BBC One HD" tvg-logo="https://s4.postimg.org/k5xl5dmf1/bbc_one.png" group-title="BBC",BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 #EXTINF:35 group-title="NEWS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/07/ABC-Logo.png",ABC
 http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ABC.smil/chunklist_b1160000_slen.m3u8
 #EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/AE-logo.jpg",A&E
