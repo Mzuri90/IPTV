@@ -4,7 +4,7 @@
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_isohswgb/def_height/2700/def_width/2700/version/100012/type/1",Al JAZEERA English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 group-title="NEWS" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png",CNN USA
+#EXTINF:0 group-title="NEWS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="NEWS" tvg-id="BloombergTVLiveEvent.us" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV US Live Event
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US Live Event
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
