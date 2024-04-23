@@ -6,5 +6,3 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 group-title="NEWS" tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://media.tv4.live/adult.swim.east.us.png",Adult Swim
-https://tvnow.best/api/stream/johnnycrackeen@gmail.com/090625/livetv.epg/adult.swim.east.us.m3u8
