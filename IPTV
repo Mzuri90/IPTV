@@ -1,13 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3d/Homemovies_sm.png" group-title="Movies",Adult Swim Home Movies
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg" group-title="Music",AFROBEATS 24/7
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_isohswgb/def_height/2700/def_width/2700/version/100012/type/1" group-title="News",Al JAZEERA English
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.creativeboom.com/upload/articles/8f/8f6cd51ec38e4f9ccab6a7350ba42d4ca9c429da_2560.png" group-title="Entertainment",BBC Earth
-https://lnc-bbc-earth.tubi.video/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.cyberera.com.ng/wp-content/uploads/2020/05/images-3.png",Bloomberg TV+
@@ -16,20 +14,12 @@ https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:0 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="News",CNN USA 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/04/Crackle-Emblem.png" group-title="Movies",CRACKLE
-https://crackle-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-redbox/CDN/playlist.m3u8?p=redbox
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ehagroup.com/assets/img/site/logos/logo-fox-five.png" group-title="News",FOX 5 New York
-https://lnc-wnyw.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/The_History_Channel_logo.png" group-title="History",History Time
-https://lnc-historytime.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBC-News-Now.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek" group-title="Sports",NFL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
 #EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/37K0AZX.png" group-title="News",USA Today
-https://lnc-usa-today.tubi.video/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="Entertainment",TMZ 
