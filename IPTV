@@ -23,11 +23,11 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="Entertainment",TMZ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
-
+#EXTINF
 https://list.iptvcat.com/my_list/s/c7636a93b71a6c3b31b0a57448ccb768.m3u8
-
+#EXTINF
 https://list.iptvcat.com/my_list/s/c518bf3103d4b17726f363c86e43429f.m3u8
-
+#EXTINF
 https://list.iptvcat.com/my_list/s/cdefc6db6149c1e20a87ae416cd746fa.m3u8
 
 https://list.iptvcat.com/my_list/s/49205a899b992dcdf6385b2b916c6438.m3u8
