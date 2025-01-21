@@ -21,6 +21,12 @@ https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="Entertainment",TMZ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
 
+#EXTINF:,VH1
+https://list.iptvcat.com/my_list/s/cdefc6db6149c1e20a87ae416cd746fa.m3u8
+#EXTINF:,Nosey
+https://list.iptvcat.com/my_list/s/7419623d2376719548f731b4a7843423.m3u8
+#EXTINF:,Oxygen East
+https://list.iptvcat.com/my_list/s/5d46122bdb5dc453ff79f538479b1050.m3u8
 #EXTINF:,ION
 https://list.iptvcat.com/my_list/s/a34a2a964d308e171b580fde8ec18b0b.m3u8
 #EXTINF:,Hallmark
@@ -47,6 +53,8 @@ https://list.iptvcat.com/my_list/s/bcbbdf635afdc3df620d674b24361863.m3u8
 https://list.iptvcat.com/my_list/s/5f4114347c334bf66c7a39267261f585.m3u8
 #EXTINF:,NFL Network
 https://list.iptvcat.com/my_list/s/a080fcc471e97470298f5b00344b482b.m3u8
+#EXTINF:,PBS Nature
+https://list.iptvcat.com/my_list/s/741063b8c19fc82c48838d00288bae43.m3u8
 #EXTINF:,MTV Classic
 https://list.iptvcat.com/my_list/s/37495fccfb72c74550ff27bb5a55d9fc.m3u8
 #EXTINF:,MTV
