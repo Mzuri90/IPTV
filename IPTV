@@ -20,7 +20,8 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="Entertainment",TMZ 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
-
+#EXTINF:,FX East
+https://list.iptvcat.com/my_list/s/dd1a4d5c6931bb4b64de486a5d10a5b8.m3u8
 #EXTINF:,Sundance TV
 https://list.iptvcat.com/my_list/s/407671b1250f4cb0e641157ddecd03fd.m3u8
 #EXTINF:,VH1
@@ -71,7 +72,7 @@ https://list.iptvcat.com/my_list/s/f80fb82ff1fb294c3eec06a9a9988585.m3u8
 https://list.iptvcat.com/my_list/s/25e3af65ca641e6103cc383b77f72c99.m3u8
 #EXTINF:,FOX Sports
 https://list.iptvcat.com/my_list/s/4e158385ff044250bb466bf1b8dc4fa5.m3u8
-#EXTINF:,FX
+#EXTINF:,FX Esp
 https://list.iptvcat.com/my_list/s/a68ace9675310351779eb2c656855335.m3u8
 #EXTINF:,Crime 360 A&E
 https://list.iptvcat.com/my_list/s/13c3a16563a4052f0b3c3e072df4c93f.m3u8
