@@ -1,179 +1,109 @@
 #EXTM3U
-# Curated expanded USA playlist — free / legal streams
-# Save as usa_curated_expanded.m3u and open in VLC or Kodi
 
-# Master auto-updating source (fallback / large coverage)
-#EXTINF:-1,IPTV-ORG USA (auto-updating)
-https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:-1 tvg-logo="https://tv2club.com/wp-content/uploads/2020/10/wp-1493061837818.jpg" group-title="Music",AFROBEATS 24/7
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_isohswgb/def_height/2700/def_width/2700/version/100012/type/1" group-title="News",Al JAZEERA English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.cyberera.com.ng/wp-content/uploads/2020/05/images-3.png",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://assets2.cbsnewsstatic.com/hub/i/r/2022/01/19/b31e1d04-fe81-4448-9eb8-b378beeb208b/thumbnail/640x360/c49249ce1e3ce20cb06b508dfd6c044c/cbsnews-local-newyork-1920x1080.jpg?v=57e8fa9efcf044a821348136ff26ed69" group-title="News",CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:0 tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" group-title="News",CNN USA 
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/khjxu70iiu14uvxridek" group-title="Sports",NFL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8
+#EXTINF:-1 tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/512px-Vice_TV_logo.svg.png" group-title="Entertainment",Vice
+https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.tmz.com/tmz-web/img/sections/home/og-image-1200x630-v1.png" group-title="Entertainment",TMZ 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:,FX East
+https://list.iptvcat.com/my_list/s/dd1a4d5c6931bb4b64de486a5d10a5b8.m3u8
+#EXTINF:,Sundance TV
+https://list.iptvcat.com/my_list/s/407671b1250f4cb0e641157ddecd03fd.m3u8
+#EXTINF:,VH1
+https://list.iptvcat.com/my_list/s/cdefc6db6149c1e20a87ae416cd746fa.m3u8
+#EXTINF:,Nosey
+https://list.iptvcat.com/my_list/s/7419623d2376719548f731b4a7843423.m3u8
+#EXTINF:,Oxygen East
+https://list.iptvcat.com/my_list/s/5d46122bdb5dc453ff79f538479b1050.m3u8
+#EXTINF:,ION
+https://list.iptvcat.com/my_list/s/a34a2a964d308e171b580fde8ec18b0b.m3u8
+#EXTINF:,Hallmark
+https://list.iptvcat.com/my_list/s/8b08de1a6fff23894f10b023d59b1ac6.m3u8
+#EXTINF:,HBO 2
+https://list.iptvcat.com/my_list/s/afcd53548781ebf98170775f51344277.m3u8
+#EXTINF:,BET Jams
+https://list.iptvcat.com/my_list/s/3e21ad4fa4810c6081d3e456c0b706a1.m3u8
 
-####################
-# NEWS
-####################
-#EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" group-title="News",ABC News Live
-https://abcnews.go.com/video/liveStream.m3u8
+#EXTINF:,FXX
+https://list.iptvcat.com/my_list/s/c7636a93b71a6c3b31b0a57448ccb768.m3u8
+#EXTINF:,Starz Comedy
+https://list.iptvcat.com/my_list/s/49205a899b992dcdf6385b2b916c6438.m3u8
+#EXTINF:,Starz Edge
+https://list.iptvcat.com/my_list/s/da4eac1318a25b9a198b343f9be4fe19.m3u8
+#EXTINF:,Starz Encore
+https://list.iptvcat.com/my_list/s/b2ea855f04b7553cd25a302ea31bd78c.m3u8
+#EXTINF:,NickToons
+https://list.iptvcat.com/my_list/s/c62e86af510ed186401a876b62086122.m3u8
 
-#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS News (CBSN)" group-title="News",CBSN
-https://cbsn.cbsnews.com/live/cbsn.m3u8
+#EXTINF:,NHL
+https://list.iptvcat.com/my_list/s/5f4114347c334bf66c7a39267261f585.m3u8
+#EXTINF:,NFL Network
+https://list.iptvcat.com/my_list/s/a080fcc471e97470298f5b00344b482b.m3u8
+#EXTINF:,PBS Nature
+https://list.iptvcat.com/my_list/s/741063b8c19fc82c48838d00288bae43.m3u8
+#EXTINF:,MTV Classic
+https://list.iptvcat.com/my_list/s/37495fccfb72c74550ff27bb5a55d9fc.m3u8
+#EXTINF:,MTV
+https://list.iptvcat.com/my_list/s/942af4a2eeaeaeb87faef885ff17db89.m3u8
+#EXTINF:,MLB Network
+https://list.iptvcat.com/my_list/s/ae36ff8051d8b7a91cdb8b0f7d196aa1.m3u8
+#EXTINF:,HBO 2
+https://list.iptvcat.com/my_list/s/afcd53548781ebf98170775f51344277.m3u8
+#EXTINF:,FYI
+https://list.iptvcat.com/my_list/s/2c50a45886b0c86355becac07016df72.m3u8
+#EXTINF:,Freeform
+https://list.iptvcat.com/my_list/s/f80fb82ff1fb294c3eec06a9a9988585.m3u8
+#EXTINF:,Fox Sports 1
+https://list.iptvcat.com/my_list/s/25e3af65ca641e6103cc383b77f72c99.m3u8
+#EXTINF:,FOX Sports
+https://list.iptvcat.com/my_list/s/4e158385ff044250bb466bf1b8dc4fa5.m3u8
+#EXTINF:,FX Esp
+https://list.iptvcat.com/my_list/s/a68ace9675310351779eb2c656855335.m3u8
+#EXTINF:,Crime 360 A&E
+https://list.iptvcat.com/my_list/s/13c3a16563a4052f0b3c3e072df4c93f.m3u8
+#EXTINF:,Comedy Central
+https://list.iptvcat.com/my_list/s/a7b5d1854540ce8bcceb9e2a35329701.m3u8
+#EXTINF:,CNBC
+https://list.iptvcat.com/my_list/s/0369fbfc6944223a0d725444fdbab561.m3u8
+#EXTINF:,CBS Sports Network 
+https://list.iptvcat.com/my_list/s/7fc143e0af670a67e53605ffb740732f.m3u8
+#EXTINF:,Cartoon Network
+https://list.iptvcat.com/my_list/s/bd7d295cbc106d36491e59f262f3efb5.m3u8
+#EXTINF:,Showtime
+https://list.iptvcat.com/my_list/s/275243ee8401537c4c7556f2ee9c901a.m3u8
+#EXTINF:,Showtime 2
+https://list.iptvcat.com/my_list/s/851a510793777f9d299199a5a312ec52.m3u8
+#EXTINF:,Showtime Extreme
+https://list.iptvcat.com/my_list/s/ddc724b6f891f6d799bafd23232650fb.m3u8
+#EXTINF:,Showtime Next
+https://list.iptvcat.com/my_list/s/48ac541650991c2bb7f91433313ead7d.m3u8
+#EXTINF:,Survivor
+https://list.iptvcat.com/my_list/s/f06cc5dbc798494b8e12df8672b9b736.m3u8
+#EXTINF:,Syfy 
+https://list.iptvcat.com/my_list/s/bab349944a5d7d4ac07b4f660d1010eb.m3u8
+#EXTINF:,The Judge Judy Channel
+https://list.iptvcat.com/my_list/s/8776621449698f7a3f240d539247fce0.m3u8
+#EXTINF:,BBC America 
+https://list.iptvcat.com/my_list/s/4e93dc345cca9c122a2a11c10c7d4f8b.m3u8
+#EXTINF:,BET Her 
+https://list.iptvcat.com/my_list/s/86d5df53c0f5617954ff6886be41076c.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow" tvg-name="NBC News Now" group-title="News",NBC News Now
-https://nbcnews.com/now/live.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:-1 tvg-id="Newsy" tvg-name="Newsy" group-title="News",Newsy
-https://newsy.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar News" group-title="Business",Cheddar News
-https://cheddar.com/live/playlist.m3u8
-
-####################
-# PUBLIC / EDUCATIONAL / LOCAL
-####################
-#EXTINF:-1 tvg-id="PBS" tvg-name="PBS" group-title="Education",PBS
-https://video.pbs.org/ondemand/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Kids",PBS Kids
-https://pbskids.org/video/live.m3u8
-
-#EXTINF:-1 tvg-id="NPR" tvg-name="NPR Live" group-title="Public Radio",NPR Live
-https://npr.org/live/playlist.m3u8
-
-# Local affiliates (examples — availability varies by market)
-#EXTINF:-1 tvg-id="WABC_NY" tvg-name="WABC New York (example)" group-title="Local",WABC New York
-https://example-wabc-ny.org/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="KABC_LA" tvg-name="KABC Los Angeles (example)" group-title="Local",KABC Los Angeles
-https://example-kabc-la.org/live/stream.m3u8
-
-####################
-# FAST PLATFORMS (Pluto / Roku / Tubi examples)
-# Tokenized or geo-restricted; may require US IP
-####################
-#EXTINF:-1 tvg-id="PlutoMovies" tvg-name="Pluto TV Movies" group-title="Entertainment",Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f3/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoDrama" tvg-name="Pluto TV Drama" group-title="Entertainment",Pluto TV Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f4/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoSports" tvg-name="Pluto TV Sports" group-title="Sports",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f5/master.m3u8
-
-#EXTINF:-1 tvg-id="RokuChannel" tvg-name="The Roku Channel (sample)" group-title="Entertainment",The Roku Channel
-https://therokuchannel.roku.com/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TubiSample" tvg-name="Tubi (sample)" group-title="Entertainment",Tubi
-https://tubitv.com/stream/playlist.m3u8
-
-####################
-# SPORTS / FREE SPORTS FEEDS
-####################
-#EXTINF:-1 tvg-id="Stadium" tvg-name="Stadium" group-title="Sports",Stadium
-https://stadiumsports.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBSSportsHQ" tvg-name="CBS Sports HQ" group-title="Sports",CBS Sports HQ
-https://www.cbssports.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalCollegeSports" tvg-name="Local College Sports (example)" group-title="Sports",Local College Sports
-https://example-college-sports.org/live/stream.m3u8
-
-####################
-# KIDS & FAMILY
-####################
-#EXTINF:-1 tvg-id="PBSKids2" tvg-name="PBS Kids 2" group-title="Kids",PBS Kids 2
-https://pbskids.org/video/playlist2.m3u8
-
-#EXTINF:-1 tvg-id="NickJrFree" tvg-name="Nick Jr (free sample)" group-title="Kids",Nick Jr Free
-https://example-nickjr.org/live/stream.m3u8
-
-#EXTINF:-1 tvg-id="CartoonNetworkFree" tvg-name="Cartoon Network (sample)" group-title="Kids",Cartoon Network Free
-https://example-cartoon-network.org/live/stream.m3u8
-
-####################
-# CULTURE / DOCUMENTARY / VARIETY
-####################
-#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" group-title="Documentary",VICE
-https://vice.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DocuChannel" tvg-name="Documentary Channel (example)" group-title="Documentary",Documentary Channel
-https://example-docu.org/live/stream.m3u8
-
-####################
-# FALLBACK / UTILITY
-####################
-#EXTINF:-1 tvg-id="IPTVOrgUS" tvg-name="IPTV-ORG USA (fallback)" group-title="Utility",IPTV-ORG USA
-https://iptv-org.github.io/iptv/countries/us.m3u#EXTM3U
-# Curated USA playlist — free / legal streams
-# Save as usa_curated.m3u and open in VLC or Kodi
-
-# IPTV-ORG (master country feed — large, auto-updating)
-#EXTINF:-1,IPTV-ORG USA (auto-updating)
-https://iptv-org.github.io/iptv/countries/us.m3u
-
-# News
-#EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" group-title="News",ABC News Live
-https://abcnews.go.com/video/liveStream.m3u8
-
-#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS News (CBSN)" group-title="News",CBSN
-https://cbsn.cbsnews.com/live/cbsn.m3u8
-
-#EXTINF:-1 tvg-id="NBCNewsNow" tvg-name="NBC News Now" group-title="News",NBC News Now
-https://nbcnews.com/now/live.m3u8
-
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
-https://bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:-1 tvg-id="Newsy" tvg-name="Newsy" group-title="News",Newsy
-https://newsy.com/live/playlist.m3u8
-
-# Public / Educational
-#EXTINF:-1 tvg-id="PBS" tvg-name="PBS" group-title="Education",PBS
-https://video.pbs.org/ondemand/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Kids",PBS Kids
-https://pbskids.org/video/live.m3u8
-
-#EXTINF:-1 tvg-id="LocalPBS" tvg-name="PBS World" group-title="Education",PBS World
-https://video.pbs.org/ondemand/pbs-world/playlist.m3u8
-
-# FAST platform — Pluto TV examples (tokenized endpoints; may require US IP)
-#EXTINF:-1 tvg-id="PlutoMovies" tvg-name="Pluto TV Movies" group-title="Entertainment",Pluto TV Movies
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f3/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoDrama" tvg-name="Pluto TV Drama" group-title="Entertainment",Pluto TV Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f4/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoSports" tvg-name="Pluto TV Sports" group-title="Sports",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f5/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoNews" tvg-name="Pluto TV News" group-title="News",Pluto TV News
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f6/master.m3u8
-
-# Sports / Free sports streams
-#EXTINF:-1 tvg-id="Stadium" tvg-name="Stadium" group-title="Sports",Stadium
-https://stadiumsports.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBSsports" tvg-name="CBS Sports HQ" group-title="Sports",CBS Sports HQ
-https://www.cbssports.com/live/playlist.m3u8
-
-# Entertainment / Variety
-#EXTINF:-1 tvg-id="TheRokuChannel" tvg-name="The Roku Channel (free)" group-title="Entertainment",The Roku Channel
-https://therokuchannel.roku.com/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tubi" tvg-name="Tubi (example channel)" group-title="Entertainment",Tubi
-https://tubitv.com/stream/playlist.m3u8
-
-# Niche / Culture
-#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar News" group-title="Business",Cheddar News
-https://cheddar.com/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VICE" tvg-name="VICE (free channel)" group-title="Documentary",VICE
-https://vice.com/live/playlist.m3u8
-
-# Local and public access (examples — may vary by market)
-#EXTINF:-1 tvg-id="LocalNewsExample" tvg-name="Local News Example" group-title="Local",Local News Example
-https://example-local-broadcaster.org/live/stream.m3u8
-
-# Utility / fallback
-#EXTINF:-1 tvg-id="IPTVOrgUS" tvg-name="IPTV-ORG USA (fallback)" group-title="Utility",IPTV-ORG USA
-https://iptv-org.github.io/iptv/countries/us.m3u
+#EXTINF:,Bravo Vault
+https://list.iptvcat.com/my_list/s/ef38b95fe537a1ef1705da10f934e275.m3u8
+#EXTINF:,Wild 'N Out
+https://list.iptvcat.com/my_list/s/1217455e95a1b62af2a6c6443310ce83.m3u8
