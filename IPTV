@@ -1,4 +1,108 @@
 #EXTM3U
+# Curated expanded USA playlist — free / legal streams
+# Save as usa_curated_expanded.m3u and open in VLC or Kodi
+
+# Master auto-updating source (fallback / large coverage)
+#EXTINF:-1,IPTV-ORG USA (auto-updating)
+https://iptv-org.github.io/iptv/countries/us.m3u
+
+####################
+# NEWS
+####################
+#EXTINF:-1 tvg-id="ABCNewsLive" tvg-name="ABC News Live" group-title="News",ABC News Live
+https://abcnews.go.com/video/liveStream.m3u8
+
+#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS News (CBSN)" group-title="News",CBSN
+https://cbsn.cbsnews.com/live/cbsn.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow" tvg-name="NBC News Now" group-title="News",NBC News Now
+https://nbcnews.com/now/live.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg TV" group-title="Business",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="Newsy" tvg-name="Newsy" group-title="News",Newsy
+https://newsy.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar News" group-title="Business",Cheddar News
+https://cheddar.com/live/playlist.m3u8
+
+####################
+# PUBLIC / EDUCATIONAL / LOCAL
+####################
+#EXTINF:-1 tvg-id="PBS" tvg-name="PBS" group-title="Education",PBS
+https://video.pbs.org/ondemand/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Kids",PBS Kids
+https://pbskids.org/video/live.m3u8
+
+#EXTINF:-1 tvg-id="NPR" tvg-name="NPR Live" group-title="Public Radio",NPR Live
+https://npr.org/live/playlist.m3u8
+
+# Local affiliates (examples — availability varies by market)
+#EXTINF:-1 tvg-id="WABC_NY" tvg-name="WABC New York (example)" group-title="Local",WABC New York
+https://example-wabc-ny.org/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="KABC_LA" tvg-name="KABC Los Angeles (example)" group-title="Local",KABC Los Angeles
+https://example-kabc-la.org/live/stream.m3u8
+
+####################
+# FAST PLATFORMS (Pluto / Roku / Tubi examples)
+# Tokenized or geo-restricted; may require US IP
+####################
+#EXTINF:-1 tvg-id="PlutoMovies" tvg-name="Pluto TV Movies" group-title="Entertainment",Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f3/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoDrama" tvg-name="Pluto TV Drama" group-title="Entertainment",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f4/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoSports" tvg-name="Pluto TV Sports" group-title="Sports",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f5/master.m3u8
+
+#EXTINF:-1 tvg-id="RokuChannel" tvg-name="The Roku Channel (sample)" group-title="Entertainment",The Roku Channel
+https://therokuchannel.roku.com/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TubiSample" tvg-name="Tubi (sample)" group-title="Entertainment",Tubi
+https://tubitv.com/stream/playlist.m3u8
+
+####################
+# SPORTS / FREE SPORTS FEEDS
+####################
+#EXTINF:-1 tvg-id="Stadium" tvg-name="Stadium" group-title="Sports",Stadium
+https://stadiumsports.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsHQ" tvg-name="CBS Sports HQ" group-title="Sports",CBS Sports HQ
+https://www.cbssports.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LocalCollegeSports" tvg-name="Local College Sports (example)" group-title="Sports",Local College Sports
+https://example-college-sports.org/live/stream.m3u8
+
+####################
+# KIDS & FAMILY
+####################
+#EXTINF:-1 tvg-id="PBSKids2" tvg-name="PBS Kids 2" group-title="Kids",PBS Kids 2
+https://pbskids.org/video/playlist2.m3u8
+
+#EXTINF:-1 tvg-id="NickJrFree" tvg-name="Nick Jr (free sample)" group-title="Kids",Nick Jr Free
+https://example-nickjr.org/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkFree" tvg-name="Cartoon Network (sample)" group-title="Kids",Cartoon Network Free
+https://example-cartoon-network.org/live/stream.m3u8
+
+####################
+# CULTURE / DOCUMENTARY / VARIETY
+####################
+#EXTINF:-1 tvg-id="VICE" tvg-name="VICE" group-title="Documentary",VICE
+https://vice.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DocuChannel" tvg-name="Documentary Channel (example)" group-title="Documentary",Documentary Channel
+https://example-docu.org/live/stream.m3u8
+
+####################
+# FALLBACK / UTILITY
+####################
+#EXTINF:-1 tvg-id="IPTVOrgUS" tvg-name="IPTV-ORG USA (fallback)" group-title="Utility",IPTV-ORG USA
+https://iptv-org.github.io/iptv/countries/us.m3u#EXTM3U
 # Curated USA playlist — free / legal streams
 # Save as usa_curated.m3u and open in VLC or Kodi
 
