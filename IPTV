@@ -107,3 +107,18 @@ https://list.iptvcat.com/my_list/s/86d5df53c0f5617954ff6886be41076c.m3u8
 https://list.iptvcat.com/my_list/s/ef38b95fe537a1ef1705da10f934e275.m3u8
 #EXTINF:,Wild 'N Out
 https://list.iptvcat.com/my_list/s/1217455e95a1b62af2a6c6443310ce83.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_logo.svg" group-title="Business", Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC_News_logo.png" group-title="News", ABC News Live
+https://abcnews.go.com/video/liveStream.m3u8
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CBS_News_logo.png" group-title="News", CBS News
+https://cbsn.cbsnews.com/live/cbsn.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/NBC_News_2020.svg" group-title="News", NBC News Now
+https://nbcnews.com/now/live.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVMovies.us" tvg-name="Pluto TV Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pluto_TV_logo.png" group-title="Entertainment", Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2a3f3f2b3f3f0007b3f3f3/master.m3u8
